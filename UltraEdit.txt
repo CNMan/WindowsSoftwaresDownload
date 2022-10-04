@@ -1,0 +1,10 @@
+https://downloads.ultraedit.com/main/uc/win/uc_chinese.msi
+https://downloads.ultraedit.com/main/uc/win/uc_chinese_64.msi
+https://downloads.ultraedit.com/main/ue/win/ue_chinese.msi
+https://downloads.ultraedit.com/main/ue/win/ue_chinese_64.msi
+https://downloads.ultraedit.com/main/ues/win/ues_chinese.msi
+https://downloads.ultraedit.com/main/ues/win/ues_chinese_64.msi
+https://downloads.ultraedit.com/main/uf/win/uf_english.msi
+https://downloads.ultraedit.com/main/uf/win/uf_english_64.msi
+https://downloads.ultraedit.com/main/uftp/win/uftp_english.msi
+https://downloads.ultraedit.com/main/uftp/win/uftp_english_64.msi

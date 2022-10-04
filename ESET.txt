@@ -1,0 +1,14 @@
+https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v6/6.5.2132.6/eea_nt32_enu.msi
+https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v6/6.5.2132.6/eea_nt64_enu.msi
+https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v6/6.5.2132.6/ees_nt32_enu.msi
+https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v6/6.5.2132.6/ees_nt64_enu.msi
+
+https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v6/6.5.2132.6/eea_nt32_chs.msi
+https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v6/6.5.2132.6/eea_nt64_chs.msi
+https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v6/6.5.2132.6/ees_nt32_chs.msi
+https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v6/6.5.2132.6/ees_nt64_chs.msi
+
+https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt32.msi
+https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi
+https://download.eset.com/com/eset/apps/business/ees/windows/latest/ees_nt32.msi
+https://download.eset.com/com/eset/apps/business/ees/windows/latest/ees_nt64.msi

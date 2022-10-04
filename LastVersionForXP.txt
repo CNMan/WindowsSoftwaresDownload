@@ -1,0 +1,28 @@
+http://files.emeditor.com/emed32_14.8.1_portable.zip
+http://files.emeditor.com/emed64_14.8.1_portable.zip
+http://matejhorvat.si/en/windows/python/py3-4-10.zip
+https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x71lor5zzkliyh8fv3sryayu5uk5zi20ep7dwfnwr143dzxqijv/49.0.2623.112_chrome_installer.exe
+https://download.techsmith.com/camtasiastudio/enu/860/camtasia.msi
+https://download.techsmith.com/snagit/enu/1241/snagit.msi
+https://fineprint.com/release/fp937.exe
+https://fineprint.com/release/pdf637pro.exe
+https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox Setup 52.9.0esr.exe
+https://ftp.mozilla.org/pub/thunderbird/releases/52.9.1/win32/en-US/Thunderbird Setup 52.9.1.exe
+https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/PortableGit-2.10.0-32-bit.7z.exe
+https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/PortableGit-2.10.0-64-bit.7z.exe
+https://github.com/rime/weasel/releases/download/0.9.30/weasel-0.9.30.0-installer.exe
+https://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-3.1.2-64.zip
+https://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-3.1.2.zip
+https://secure-appldnld.apple.com/itunes12/031-34002-20150916-98D32A92-5C11-11E5-80AC-C25A6DA99CB1/iTunesSetup.exe
+https://secure-appldnld.apple.com/QuickTime/031-43075-20160107-C0844134-B3CD-11E5-B1C0-43CA8D551951/QuickTimeInstaller.exe
+https://www.foobar2000.org/files/foobar2000_v1.5.11.exe
+https://www.hyperionics.com/downloads/HS7Setup.exe
+https://www.listary.com/download/Listary171014.exe
+https://www.python.org/ftp/python/2.7.18/python2718.chm
+https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi
+https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi
+https://www.python.org/ftp/python/3.4.4/python344.chm
+https://www.python.org/ftp/python/3.4.4/python-3.4.4.amd64.msi
+https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210616/wrr/winrar-x64-602sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210616/wrr/wrar602sc.exe

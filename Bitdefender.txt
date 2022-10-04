@@ -1,0 +1,16 @@
+https://download.bitdefender.com/updates/cl_2022/x64/weekly.exe
+https://download.bitdefender.com/updates/cl_2022/x86/weekly.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2016/all/bitdefender_ts_20_32b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2016/all/bitdefender_ts_20_64b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2017/all/bitdefender_ts_21_32b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2017/all/bitdefender_ts_21_64b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2018/all/bitdefender_ts_22_32b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2018/all/bitdefender_ts_22_64b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2019/all/bitdefender_ts_23_32b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2019/all/bitdefender_ts_23_64b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2020/all/bitdefender_ts_24_32b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2020/all/bitdefender_ts_24_64b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2021/all/bitdefender_ts_25_32b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2021/all/bitdefender_ts_25_64b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2022/all/bitdefender_ts_26_32b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2022/all/bitdefender_ts_26_64b.exe
