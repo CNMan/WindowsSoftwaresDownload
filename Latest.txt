@@ -43,7 +43,7 @@ https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
 https://download.sublimetext.com/Sublime Text Build 3211.zip
-https://download.sublimetext.com/sublime_text_build_4126_x64.zip
+https://download.sublimetext.com/sublime_text_build_4142_x64.zip
 https://download.sysinternals.com/files/SysinternalsSuite.zip
 https://download.techsmith.com/camtasiastudio/releases/2221/camtasia.msi
 https://download.techsmith.com/snagit/releases/2211/snagit.msi
@@ -51,10 +51,11 @@ https://downloads.wisecleaner.com/soft/WiseCare365.zip
 https://downloads.wisecleaner.com/soft/WRCFree.zip
 https://fineprint.com/release/fp1127.exe
 https://fineprint.com/release/pdf827pro.exe
-https://fontlab.s3.amazonaws.com/fontlab-7/7644/FontLab-7-Win64-Install-7644.exe
-https://fontlab.s3.amazonaws.com/fontlab-7/7644/FontLab-7-Win-Install-7644.exe
+https://fontlab.s3.amazonaws.com/fontlab-7/7649/FontLab-7-Win64-Install-7649.exe
+https://fontlab.s3.amazonaws.com/fontlab-7/7649/FontLab-7-Win-Install-7649.exe
 https://fontlab.s3.amazonaws.com/fontlab-8/8248/FontLab-8-Win64-Install-8248.exe
 https://fontlab.s3.amazonaws.com/fontlab-8/8248/FontLab-8-Win-Install-8248.exe
+https://fontlab.s3.amazonaws.com/fontlab-studio-5/5714/FLS522WinFull-5714.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win64-Install-7044.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win-Install-7044.exe
 https://get.flashfxp.com/ftp/client/download/FlashFXP54_3970_Portable.exe
@@ -73,6 +74,8 @@ https://jaist.dl.sourceforge.net/project/keepass/KeePass 2.x/2.51/KeePass-2.51.z
 https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.51/KeePass-2.51-Chinese_Simplified.zip
 https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.51/KeePass-2.51-Chinese_Traditional.zip
 https://jaist.dl.sourceforge.net/project/mplayerwin/MPlayer-MEncoder/r38151/mplayer-svn-38151.7z
+https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/zh-CN/Apache_OpenOffice_4.1.13_Win_x86_install_zh-CN.exe
+https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/zh-CN/Apache_OpenOffice_4.1.13_Win_x86_langpack_zh-CN.exe
 https://kjkpub.s3.amazonaws.com/software/sumatrapdf/rel/3.4.6/SumatraPDF-3.4.6-64.zip
 https://kjkpub.s3.amazonaws.com/software/sumatrapdf/rel/3.4.6/SumatraPDF-3.4.6.zip
 https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-5.2-564-e4ac156-win32-dev-xpmod-sse.7z
@@ -92,32 +95,34 @@ https://www.editplus.com/ftp/epp560_4250.exe
 https://www.editplus.com/ftp/epp560p4272_0831.exe
 https://www.editplus.com/ftp/epp560p4272_0831_64bit.exe
 https://www.emule-project.net/files/emule/eMule0.60d.zip
-https://www.faststonesoft.net/DN/FSCapture97.zip
+https://www.faststonesoft.net/DN/FSCapture98.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
 https://www.faststonesoft.net/DN/FSViewer77.zip
 https://www.foobar2000.org/files/foobar2000_v1.6.12.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.2.39_20220902.exe
+https://www.high-logic.com/FontCreatorSetup.exe
 https://www.high-logic.com/FontCreatorSetup.zip
+https://www.high-logic.com/FontCreatorSetup-x64.exe
 https://www.high-logic.com/FontCreatorSetup-x64.zip
 https://www.hyperionics.com/downloads/HS8Setup32.exe
 https://www.hyperionics.com/downloads/HS8Setup.exe
 https://www.irif.fr/~jch/software/files/polipo-1.1.1-win32.zip
+https://www.jetico.com/jpf2setup.exe
 https://www.legroom.net/files/software/uniextract161_noinst.rar
 https://www.listary.com/download/Listary.exe
 https://www.nlnetlabs.nl/downloads/unbound/unbound-1.16.2.zip
 https://www.nlnetlabs.nl/downloads/unbound/unbound-1.16.2-w32.zip
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win32.7z
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win64.7z
-https://www.python.org/ftp/python/3.10.7/python3107.chm
-https://www.python.org/ftp/python/3.10.7/python-3.10.7.exe
-https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe
-https://www.python.org/ftp/python/3.10.7/python-3.10.7-embed-amd64.zip
-https://www.python.org/ftp/python/3.10.7/python-3.10.7-embed-win32.zip
+https://www.python.org/ftp/python/3.11.0/python-3.11.0.exe
+https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+https://www.python.org/ftp/python/3.11.0/python-3.11.0-embed-amd64.zip
+https://www.python.org/ftp/python/3.11.0/python-3.11.0-embed-win32.zip
 https://www.rlvision.com/files/OfficeImageExtractionWizard_Portable.zip
 https://www.rlvision.com/files/PdfImageExtractionWizard_Portable.zip
-https://www.scootersoftware.com/BCompare-4.4.3.26655_x64.msi
-https://www.scootersoftware.com/BCompare-4.4.3.26655_x86.msi
+https://www.scootersoftware.com/BCompare-4.4.4.27058_x64.msi
+https://www.scootersoftware.com/BCompare-4.4.4.27058_x86.msi
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
 https://www.voidtools.com/Everything-1.4.1.1021.x64.zip
 https://www.voidtools.com/Everything-1.4.1.1021.x86.zip

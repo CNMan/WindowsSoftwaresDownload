@@ -1,0 +1,870 @@
+FontCreator 14.0.0.2888 [November 1, 2022]
+	Several minor improvements and bug fixes
+FontCreator 14.0.0.2886 [October 31, 2022]
+	Improved smart point deletion
+	Several minor improvements and bug fixes
+FontCreator 14.0.0.2885 [October 28, 2022]
+	Fixed auto attach issue with complex ligatures
+	Improved detection of contours with incorrect direction
+	Include sample character within glyph frame for empty characters
+	Improved processing of glyph metrics expressions
+	Numerous other improvements and bug fixes
+FontCreator 14.0.0.2883 [October 12, 2022]
+	Fixed issue with undo after adding glyphs
+FontCreator 14.0.0.2882 [October 10, 2022]
+	Improved OpenType layout features after deleting glyphs
+	Fixed issue with subsetting variable fonts
+FontCreator 14.0.0.2881 [October 8, 2022]
+	Fixed issue with exporting instances of a variable font
+FontCreator 14.0.0.2880 [October 7, 2022]
+	New exporting subsets of variable fonts
+	Support for DesignSpace version 5.0 (subsets including extrapolation and discrete axes)
+	Support for UFO Meta
+	Support for UFO Unicode Variation Sequences
+	Fixed processing axis variations table
+	Improvements to the OpenType Designer
+	Ceased hinting support for legacy Symbol fonts
+	Ceased support for exporting legacy kern table; use GPOS pair positioning
+	Added option to flatten components on export
+	Fixed stability issue
+	Numerous other improvements and bug fixes
+FontCreator 14.0.0.2877 [September 7, 2022]
+	Fixed import SVG bug
+	Easy selection of contours with one or two points
+FontCreator 14.0.0.2875 [September 6, 2022]
+	Double stroke now always double
+	Improved exporting fonts
+	Several other improvements
+FontCreator 14.0.0.2874 [September 3, 2022]
+	Improved cutting through contours
+	Improved exporting variable fonts
+	Several other improvements
+FontCreator 14.0.0.2872 [August 24, 2022]
+	Fixed minor flaw while selecting different master
+FontCreator 14.0.0.2871 [August 23, 2022]
+	Fixed issue related to exporting ligatures
+FontCreator 14.0.0.2870 [August 23, 2022]
+	Improved export of OpenType layout features
+	Improved detection of interpolation issues
+	Several other improvements
+FontCreator 14.0.0.2860 [June 30, 2022]
+	Fixed bug related to editing variable fonts
+	Improved import of SVG files
+	Improved smart point removal (select points and press Backspace)
+	New ability to add glyphs to multiple composite glyphs at once
+	Numerous other improvements and bug fixes
+FontCreator 14.0.0.2856 [June 23, 2022]
+	Fixed a rare export issue which only affected variable fonts
+	Improved the way floating points are shown
+	Several improvements to the web font test page
+	Moved instant validation of incompatilbe layers to Validation wizard
+	Numerous other improvements and bug fixes
+FontCreator 14.0.0.2853 [June 15, 2022]
+	New option to optimize storage of OpenType layout features on export
+	Fixed an export issue related to italic style
+	Improved Italic transformation feature
+	Fixed an export instances issue
+	Improved import of SVG files
+	Fixed pasting side-bearings
+	Several improvements in the OpenType Designer
+	Improvements to the shaping engine
+	Copy an interpolated glyph outline
+	On the Master tab you can type x / y and then press Enter. It will use that as run/rise for italic angle and caret slope!
+	Support for base() for lsb and rsb on opening fonts and when using anchor based complete composites
+	Numerous other improvements and bug fixes
+FontCreator 14.0.0.2843 [May 31, 2022]
+	Several improvements and bug fixes
+FontCreator 14.0.0.2840 [May 25, 2022]
+	Fixed issue with Italic font style
+	Fixed several issues related to undo and redo
+	Fixed an Auto Attach issue
+	Fixed Insert Glyphs issue
+FontCreator 14.0.0.2836 [May 13, 2022]
+	Fixed import VOLT issue
+FontCreator 14.0.0.2834 [May 12, 2022]
+	Fixed avar axis mapping issue
+	Improved Web font export
+	Added anchors and suffixes categories
+	Added new master from current location
+	New side-bearings function base() to be used with precomposed characters (composites)
+	Several other improvements and bug fixes
+FontCreator 14.0.0.2828 [April 26, 2022]
+	Fixed complete composites
+	Added support for Unicode 14
+	Updated OpenType layout tags
+	Fixed an expression issue related to rsb
+	Fixed issue with insert contour feature with open contours
+	Fixed import VOLT issue
+	Fixed Add outline layer issue related to Cursive attachment
+	Fixed setting WWS bit in Font selection flags
+	Fixed rare issue related to corrupt exported font
+	Fixed codepoint issue within Insert Glyphs
+	Fixed axis mappings issue
+	Comes with ttfautohint version 1.8.4
+	Improved Web font export
+	Added edit in class manager option for mark and contextual lookups
+	Several minor changes and improvements
+FontCreator 14.0.0.2814 [August 20, 2021]
+	Re-implemented calculation for metrics for horizontal writing mode
+	Improved name generation on exporting a font
+	Fixed background image color issue in Dark Theme
+	Fixed issue with storing color members in font projects
+	Fixed a Search glyphs by name bug
+	Several minor changes and improvements
+FontCreator 14.0.0.2808 [July 15, 2021]
+	New Apply Everywhere (transparent outline fill)
+	Edit Across Layers (delete glyph members, contours, points will keep layers compatible)
+	Improved snap to grid functionality
+	Fixed rare issue with mark-to-ligature
+	Improved exporting instances
+	Several improvements to the shaping engine
+	Improved support for fea feature syntax
+	Fixed issue with existing hinting
+	Interpolation improvements
+	Improved export
+	Fixed a side-bearing issue
+	Performance improvements
+	Numerous other enhancements and bug fixes
+FontCreator 14.0.0.2794 [June 29, 2021]
+	Fixed load and save project issue
+FontCreator 14.0.0.2793 [June 29, 2021]
+	Fixed import svg issue
+	Fixed intersection and exclusion issue
+	Fixed theme background color issue on Find panel
+	Fixed Shift and Ctrl options with new rectangle and ellipse
+FontCreator 14.0.0.2792 [June 26, 2021]
+	Fixed export issue (CFF format reverted to TFF)
+	Fixed minor shaping engine issue
+FontCreator 14.0.0.2791 [June 25, 2021]
+	Fixed shaping engine issue that caused incorrect positioning
+	Correct Windows edition in about box
+	Fixed import svg issue
+	Fixed issue with opening outdated font projects
+FontCreator 14.0.0.2789 [June 23, 2021]
+	New variable font support
+	New dockable panels
+	New masks
+	New anchor cloud
+	Improved auto attach
+	Improved shaping engine
+	Improved interactive proofing of OpenType layout features
+	Improved AFDKO fea syntax support, including variable font support
+	Support for design spaces
+	Improved import and export of Unified Font Object (UFO) based fonts
+	Improved import of vector-based images
+	Improved high DPI support
+	Improved font data compression on export
+	Updated vendor information
+	Numerous enhancements and improvements
+FontCreator 13.0.0.2683 [August 29, 2020]
+	Fixed minor issue in Glyph Properties toolbar
+	Improved support for VOLT import and export
+FontCreator 13.0.0.2681 [July 21, 2020]
+	Fixed rare mark filtering sets issue
+	Added support for mark filtering sets to VOLT import and export
+FontCreator 13.0.0.2680 [July 20, 2020]
+	New duplicate class
+	New open substituation lookup from contextual lookups in code editor
+	Several minor improvements and bug fixes
+FontCreator 13.0.0.2678 [July 8, 2020]
+	Load and save color palettes
+FontCreator 13.0.0.2675 [July 6, 2020]
+	Optional slanted grid for italic fonts
+	Improved paste contours into glyph overview window
+	Improved OpenType Explorer
+	Several minor improvements
+FontCreator 13.0.0.2672 [June 29, 2020]
+	Improved Shaping Engine
+	New: Edit and export OpenType layout features in VOLT syntax
+	Added resize option to preview area in html test
+	Updated vendor information
+	New toggle (z) in Glyph Edit window
+	Added tag color to tabs
+FontCreator 13.0.0.2670 [June 22, 2020]
+	Use SHIFT-H in Glyph Edit window to only show glyph outline
+	In Glyph Edit window press ";" to set default bearings
+FontCreator 13.0.0.2668 [June 20, 2020]
+	Fixed rare anchor issue
+	Improved validation of codepoint ranges
+	Fixed minor auto-attach glitch (afterwards all glyphs where inadvertently selected)
+FontCreator 13.0.0.2663 [June 18, 2020]
+	Added PairPosFormat1 option
+	Improved resizing of contours
+	New resizing selection of points
+	Added No Tag category
+FontCreator 13.0.0.2656 [June 11, 2020]
+	Added VOLT import support for ligature carets
+	Fixed import VOLT issue
+	Improved unused glyphs algorithm
+	OpenType Explorer supports both glyphs and glyph classes
+FontCreator 13.0.0.2655 [June 10, 2020]
+	Export font as UFO
+	Better parser validation for class based kerning
+	New OpenType Explorer
+FontCreator 13.0.0.2648 [June 5, 2020]
+	Improved Open Installed Fonts dialog
+	Fixed cut and paste glyphs bug
+	Improved AutoMetrics Preview of figures (digits)
+	Search box above single and pair pos also supports a single character
+	Glyph name completion in Insert Glyphs window
+	Glyph name completion in feature code editor
+	Added sample text validation
+	Added glyph hint to Select Class Members dialog
+FontCreator 13.0.0.2645 [May 29, 2020]
+	Improved empty pair positioning compiler check
+FontCreator 13.0.0.2644 [May 28, 2020]
+	Fixed rare mark filtering set bug
+	New: drag and drop support for lookups in OpenType Designer
+FontCreator 13.0.0.2643 [May 19, 2020]
+	Several AFDKO FEA feature improvements
+	Added on export exclude legacy cmap option
+	New context menu item to duplicate a lookup
+FontCreator 13.0.0.2642 [May 16, 2020]
+	Minor improvements to decompiling AFDKO FEA feature definitions
+FontCreator 13.0.0.2640 [May 15, 2020]
+	New: Sort glyphs by glyph names from UFO lib.plist file
+	Improved .fea syntax support
+	GDEF ligature carets
+FontCreator 13.0.0.2637 [May 8, 2020]
+	New: Sort glyphs by glyph names from file
+	Support for editing individual lookup with fea syntax
+	Import glyph outline from individual UFO .glif file
+FontCreator 13.0.0.2636 [May 6, 2020]
+	New: Open Unified Font Object fonts
+	New: OpenType feature script editor now also supports AFDKO fea syntax
+FontCreator 13.0.0.2630 [April 15, 2020]
+	Fixed rare export bug
+	Several minor improvements
+FontCreator 13.0.0.2627 [April 10, 2020]
+	Minor proofing improvements
+	Improved shaping engine
+	Improved Web Font Test page
+FontCreator 13.0.0.2620 [April 4, 2020]
+	Further improved Auto Attach
+	Several anchor related improvements
+	Minor proofing improvements
+	Fixed a cursive attachment issue
+	Fixed issues with Reverse Chaining Contextual Single Substitution Subtable
+	New: Copy and paste composites in same font
+FontCreator 13.0.0.2613 [March 19, 2020]
+	Improved Insert Glyphs by Name
+	Improved Auto Attach
+	Proofing improvements
+	Fixed an issue with Check for Updates
+FontCreator 13.0.0.2610 [March 18, 2020]
+	Interactive proofing of OpenType layout features
+	Support for OpenType SVG color fonts
+	Improved Color Export options
+	Enhanced Anchor Manager
+	Fixed issues with anchors
+	Improved Auto Attach
+	New range is now optional in Insert Glyphs dialog
+	Improved Shaping Engine
+	Improved high DPI support
+	Added preferred outline format to Options dialog -> Exchange tab
+	Numerous enhancements and improvements
+FontCreator 12.0.0.2566 [March 11, 2020]
+	OpenType layout improvements
+	Unicode 13.0 support
+FontCreator 12.0.0.2565 [March 6, 2020]
+	Improved layout engine
+	Supporting Anchor NULL
+	Improvements to the Web Font test page
+	Some bug fixes
+FontCreator 12.0.0.2563 [February 21, 2020]
+	Fixed link to user manual in Welcome dialog
+	Reduced error reporting in case the font editor raises an exception or crashes
+FontCreator 12.0.0.2560 [February 18, 2020]
+	Fixed color font export issue
+	Improved font preview for complex scripts
+	Improved high DPI support
+	Some tweaks and improvements
+FontCreator 12.0.0.2555 [January 24, 2020]
+	Fixed CFF based font export failure
+FontCreator 12.0.0.2554 [January 23, 2020]
+	Fixed font export issue
+	Improved high DPI support
+	Improved check for updates
+FontCreator 12.0.0.2552 [January 15, 2020]
+	Improved WOFF2 export
+FontCreator 12.0.0.2550 [January 14, 2020]
+	Fixed trial outdate issue
+	Some minor improvements
+FontCreator 12.0.0.2547 [September 12, 2019]
+	Fixed issue with PDF import
+	Fixed issue with drawing outlines (TCanvasD2D)
+	Improved font templates
+FontCreator 12.0.0.2546 [August 24, 2019]
+	Fixed issue with 30-day trial period
+FontCreator 12.0.0.2543 [July 10, 2019]
+	The 30-day trial period allows you to use all features, but generated fonts will contain watermarks
+	Compile OpenType layout feature code will now merge anchors
+	Within the glyph edit window, hold down the Alt key and click one of the “comparison glyphs” to make it the current glyph
+	Fixed a bug that failed to correctly export symbol fonts
+	Updated CompositeData.xml
+	Updated Unmapped Subscripts for Fractions.xml
+	Updates to help and manual
+	Some bug fixes and improvements
+FontCreator 12.0.0.2539 [June 4, 2019]
+	Updated the way Vertical Line Spacing values are calculated
+	Some performance improvements
+	Updates to help and manual
+FontCreator 12.0.0.2535 [May 23, 2019]
+	Added option to enter glyphs by code-point in preview text: /$40 or /64
+	Updated Glyph Properties tool window
+	Expressions for glyph metrics (left side-bearing, right side-bearing, and advance width)
+	Included new transform script for Auto-attach
+	Some bug fixes and improvements
+FontCreator 12.0.0.2525 [May 10, 2019]
+	Unicode 12.1 support
+	Enhanced font overview categories panel (added Scripts)
+	Fixed rare issue with formulas
+	Updated CompositeData.xml
+FontCreator 12.0.0.2522 [May 7, 2019]
+	OpenType Designer remembers last Script and Language settings
+	Fixed issue with storing preview text
+FontCreator 12.0.0.2521 [May 7, 2019]
+	Anchor based composites
+	Extended generation of OpenType layout features (frac, liga, mark, mkmk, init, medi, fina, curs, salt, ssxx, cvxx, and many more)
+	Custom and generic localized forms
+	Improved generation of friendly glyph names
+	New glyph sort (design mode)
+	Unicode 12 support
+	Comes with ttfautohint version 1.8.3
+	Improved complete composites
+	Full undo and redo support
+	Enhancements to transform scripts
+	Option to exclude glyphs on export
+	Support for delete in multiple substitutions
+	Support for glyph ranges in glyph transformer
+	Extended Insert Glyphs dialog
+	Smart glyph switching in Glyph Edit window
+	Improved OpenType Designer
+	Improved window tab bar
+	Extended Reopen menu
+	New insert glyphs by name
+	New Option: Decompose composite glyphs with scaled components (Recommended)
+	Snap to guidelines and grid on resizing a glyph orthogonally
+	Snap to guidelines and grid for anchor movement
+	Improved glyph names for release (on exporting a font)
+	New: sort glyphs in class in class manager
+	Updated font templates for new fonts
+	_shaper now supports (basic) normalization
+	Preview support for comparing same text with different features enabled
+	View unknown tables
+	Updated vendor information
+	Insert Glyphs supports generation of composite from glyph name formula: ffi=f+f+i
+	Auto Attach repositions glyph members based on anchors
+	Several bug fixes
+	Numerous enhancements and improvements
+FontCreator 11.5.0.2430 [December 5, 2018]
+	Fixed SVG import issue
+	Fixed WOFF 1 export issue
+	Fixed class0 in preview
+	Added a generate button to smoothing
+	Improvements to the user manual
+	Several user interface improvements
+FontCreator 11.5.0.2427 [April 16, 2018]
+	Support for WOFF 2.0
+	Fixed issue with exporting CFF based WOFF files
+	Several user interface improvements
+FontCreator 11.5.0.2422 [March 5, 2018]
+	Several user interface improvements
+FontCreator 11.5.0.2421 [February 22, 2018]
+	Support for Unicode variation sequences
+	Comes with ttfautohint version 1.8.1
+	Open contours while designing fonts
+	Export as single line font (Open contours are not allowed in fonts, so FontCreator will do some magic to make fonts look like single line fonts which can be used for engraving)
+	Support for last resort fonts
+FontCreator 11.0.0.2412 [January 21, 2018]
+	Bug fix recognizing non-assigned code points
+	Fixed visual glitch related to XPlacement value
+	Allow Complete Category for all Unicode blocks
+	Fixed display problem with Arabic fonts in Microsoft Word
+FontCreator 11.0.0.2408 [September 8, 2017]
+	Bug fix related to exporting CFF based fonts, which was introduced in v11.0.0.2407.
+	Several other improvements
+FontCreator 11.0.0.2407 [September 6, 2017]
+	Fixed glyph name issue with exported CFF based fonts
+	Several other improvements
+FontCreator 11.0.0.2403 [August 30, 2017]
+	Improved OpenType layout feature preview
+	Improved AutoKern and Optical Metrics
+FontCreator 11.0.0.2400 [August 23, 2017]
+	Unicode 10 support
+	Improved OpenType layout feature preview
+	New context menu option in Preview to copy input as text to clipboard
+	Improved AutoKern and Optical Metrics
+	Fixed duplicate anchors issue
+	Glyphs shown in edit glyph name feature(s)
+	Improved class name generation
+	Fixed outline movement misalignment
+	New option to keep existing glyph names on opening a font
+FontCreator 11.0.0.2388 [June 2, 2017]
+	Inserted contours that overlap are now added as filled contours
+	Improved auto-update
+	Improved suspicious points detection
+	Improved font installer
+	Extended New Contour with right-click (quadratic based contours only)
+	Bug fix in processing chained context substitution
+	Enhancements to the OpenType feature code syntax
+FontCreator 11.0.0.2370 [May 22, 2017]
+	Bug fix: font install issues
+	Bug fix related to contour selection
+	More changes to the way vector based images are imported
+	Several tweaks
+	Update: improvements to help and manual
+FontCreator 11.0.0.2366 [May 13, 2017]
+	Bug fix: failed to save Unicode code-points beyond the first plane
+	Bug fix: failed to edit custom naming fields
+	Update: improvements to help and manual
+FontCreator 11.0.0.2365 [May 10, 2017]
+	Support for cubic bezier curves (CFF/ PostScript based outlines)
+	High DPI (Large Fonts) support
+	New icon set
+	Font validation improvements (and new Suspicious points)
+	Improved Complete Composites
+	Enhancements to Transform scripts
+	Auto kern now allows composite glyphs to follow base glyph. Also added option to exclude lowercase-lowercase pairs.
+	Vertical metrics support as requested here. Vertical metrics are only useful with fonts that are used for vertical writing, so in general you'll only need to add it in CJK (Chinese, Japanese, and Korean) fonts.
+	Support for launch custom externals
+	Improved the installed fonts dialog
+	Show angle (with a single point) or distance (between two selected points) in status bar
+	Move cubic control points while forcing "C1 continuity" by holding down the "ALT" key while moving the points.
+	Updated OpenType features and languages lists
+	Class Manager -> added option in Select Class Members dialog to filter by AnchorClass
+	Option for Glyph Fill Opacity in Glyph Edit window
+	Improved extreme control point detection
+	Improved moving cubic points
+	Select Multiple Glyphs in Insert Glyph Member to Composite Glyphs
+	Convert all outlines to either quadratic or cubic
+	New Project dialog to support predefined outlines as either cubic or quadratic
+	Cubic outlines, select on curve point and press 'S' to force C1
+	Cubic outlines, select on curve point and press 'D' to force vertical or horizontal alignment
+	Improvements to Add Script, Language, Feature, Lookup dialog
+	Added a round coordinates button (R)
+	Fixed AutoKern (and Optical Metrics) bug
+	Added a smooth, smooth and align, and round coordinates in context menu (point mode only)
+	Glyph names -> search and replace as well as bulk replace
+	New "smart delete points" (backspace)
+	Copy and paste path from Photoshop
+	Show codepoint of selected glyph in composite glyph member dialog
+	Optical Metrics no longer wipes the 'use this glyphs metrics' flag
+	Insert Contour feature will now allow you to define quadratic and cubic curves; based on TrueType outline format in Export settings.
+	Insert Contour feature will now use click and drag to make curves; right-click no longer adds off curve points (would otherwise be a challenge with cubic curves).
+	Allow FontCreator to use more memory, which is needed to open/save large font projects. FontCreator can still run out of memory if it requires a large block of memory but can't find any due to memory fragmentation. A 64 bit version has access to more memory, so that is the future.
+	Replace glyph member within Glyph Edit window. Select one, and right-click, then click replace...
+	Show Transform toolwindow when editing composites
+	Minor improvements related to the Background toolwindow
+	Provide correct contour direction when inserting rectangle and ellipse contours
+FontCreator 10.1.0.2272 [December 20, 2016]
+	Improved OpenType layout feature preview: rand (Randomize) now shows random alternates
+	Bug fix related to Auto Kern and Optical Metrics
+FontCreator 10.1.0.2257 [December 9, 2016]
+	Improved Search dialog
+	Bug fix related to exporting CFF based fonts
+	A couple of minor tweaks
+FontCreator 10.1.0.2252 [December 6, 2016]
+	Fixed the Access violation in FCOutDrw.dll
+	Solved the problem that OpenType CFF font files took forever to open
+	Solved the overlapping and intersecting contour issue
+	Reduced the amount of memory need to open and save fonts and font projects
+FontCreator 10.1.0.2245 [November 30, 2016]
+	Improved glyph outline editor
+	Autokern unmapped glyphs
+	Color-coding of kerning pairs in list box
+	Added language option in WOFF Test page
+	Paste (and paste special) supports Anchors
+	Complete composites (CompositeData.xml) supports glyph names
+	Extensive updates to Complete Composites for Latin Extended-B, C, D, and for unmapped glyphs
+	Improved display of glyphs
+	Fill color in OpenType Designer
+	New insert glyphs transform feature
+	Smart glyph navigation based on active category
+	Improved detection of overlapping kerning classes
+	Support for feature params in OpenType code compiler for character variants, optical size, and stylistic sets
+	New [+] button in OpenType Designer to add selected OpenType feature glyphs to preview
+	Some minor enhancements and bug fixes
+FontCreator 10.0.0.2125 [July 4, 2016]
+	Fixed Windows 10 incompatibility issues with CFF based OpenType fonts
+	Improved contour direction detection
+	Updated naming language id list
+	Improved preview of OpenType layout features
+	Visually reversed order of backtrack in chaining context lookups
+	Updated OpenType layout feature script, language, and feature tags
+	Several minor improvements
+FontCreator 10.0.0.2119 [June 28, 2016]
+	Fixed the broken complete composites feature
+	Bug fix in the OpenType layout features
+FontCreator 10.0 [June 22, 2016]
+	Unicode 9 support, including 72 new emoji characters and support for several lesser-used languages
+	New vector based import of Scalable Vector Graphics (SVG)
+	Copy and paste as SVG between FontCreator and other vector editing software, e.g. Inkscape, and Adobe Illustrator
+	Auto correct contour directions on importing an SVG
+	Contour optimize feature which reduces the number of points (nodes)
+	New glyph transformer features (optimize contours, inverse effect, and select range of glyphs by glyph name)
+	Improvements related to OpenType layout features
+	Added support for design and supported languages tags (dlng and slng in the sfnt font table meta)
+	New extend corner feature which allows you to make adjustments to a curve without interfering with the adjacent curve
+	Ellipse tool draws a "perfect circle" with 20 nodes instead of 12 if drawn at very large sizes
+	New vector based import of Initial Graphics Exchange Specification (IGES) files
+	Tag enhancements (indication in Glyph Edit window, tag context menu items, toggle, and shortcuts)
+	Improved font validation checks
+	Added Total Points to the Font Information dialog
+	Improved Knife Tool cursor
+	New Pan with middle mouse button
+	Shift + Q/W to select multiple points with the keyboard (implemented for both point and contour mode)
+	Pre-processing of images (scaling up small bitmaps before tracing contours will improve the results)
+	Several minor improvements and bug fixes
+FontCreator 9.1.0.1991 [February 9, 2016]
+	Several bug fixes related to OpenType layout features
+	Updated ttfautohint to version 1.5
+FontCreator 9.1 [January 29, 2016]
+	Several bug fixes; mainly related to OpenType layout features
+	Support for custom font weights
+	Unicode 8 support
+	Export all open font projects
+	Supporting VOLT 1.4 projects
+FontCreator 9.0 [June 9, 2015]
+	OpenType Designer which allows you to visually edit OpenType Layout Features including, but not limited to:
+	OpenType class based kerning
+	Mark to Base, Mark to Mark, Mark to Ligature, and Cursive attachments
+	Substitutions like ligatures and alternates
+	Anchor Manager
+	Import of Visual OpenType Layout (VOLT) projects
+	Unicode 7 support
+	New settings added to the web font test page
+	Copy glyph outline as vector data to clipboard
+	Optimised font export
+	Improved optical metrics
+	Enhanced auto kerning
+FontCreator 8.0 [June 5, 2014]
+	Visual editing of OpenType Layout Glyph Positioning (GPOS) including, but not limited to:
+	OpenType based kerning pairs
+	Mark to Base and Mark to Mark attachments
+	Anchor Manager
+	CFF based exporting
+	Unicode 6.3 support
+	Complete unicode blocks
+	Redesigned font export workflow
+	Better automatic hinting
+	Easier editing of customizable data files
+FontCreator 7.5 [August 2, 2013]
+	Added support for scalable color fonts
+FontCreator 7.0.1 [June 21, 2013]
+	Added glyph tagging
+	Added glyph name generation
+	OpenType Layout Feature glyph name list updated
+	Added support for "Multiple" substitutions in the OpenType Layout Feature Editor
+	Added support for multiple backtrack, input and lookahead groups for chained contextual lookup tables
+	Numerous bug fixes and performance improvements
+FontCreator 7.0 [April 25, 2013]
+	Completely redesigned overview window
+	Opening and exporting of fonts in WOFF file format
+	OpenType Layout Features
+	Project based font editing
+	More operations have Undo/Redo support
+	Support for Jumplists and Taskbar progress in Windows 7 and up
+	Optical Metrics
+FontCreator 6.5 [November 8, 2011]
+	Added override range feature
+	Updated registered vendor data
+	User editable sample text in font test dialog
+	Free Draw
+	Enhanced the visual validation feedback within the glyph edit window
+	Improved preview toolbar
+	Auto correct postscript names on loading a font
+	Support for OpenType fonts which exceed CFF Subroutine stack limits
+FontCreator 6.2 [October 13, 2010]
+	Updated Unicode data to version 6.0
+	Added Position transform feature
+	Improved import of vector based images
+	Extended composite data
+	Several new and updated transform scripts
+	Minor tweaks and bug fixes
+FontCreator 6.1 [March 25, 2010]
+	Automatic online version checking
+	New toolbar: window tabs
+	Mouse wheel zoom support (glyph edit window)
+	Full Unicode support
+	Performance enhancements
+	Font installation fix for Windows x64
+	Numerous other improvements and bug fixes
+FontCreator 6.0.1 [July 18, 2009]
+	Improved import vector based images
+	Improved support for Windows Big5, PRC, and Wansung
+	Enabled Font Test during trial period
+	Fixed Font Install issue
+FontCreator 6.0 [June 17, 2009]
+	Added import vector based images (ai/eps/pdf)
+	Improved import raster based images
+	Advanced drag and drop support
+	Added alphanumeric to the glyph sort feature
+	Updated font vendor list
+	Background image enhancements
+	Improved complete composites
+	New feature that copies existing glyph to the background image
+	Improved codepage calculation
+	Enhanced the Smoothing (Grayscale) window
+	Improved cubic to quadratic bezier curve conversion (affects AI/EPS/PDF imports as well as .otf to .ttf conversions)
+FontCreator 5.6 [July 19, 2007]
+	Improved complete composites (automatically generates outlines for over 2000 glyphs!)
+	New and improved transform scripts (for example make a bold version, or add Eastern Europe characters within seconds)
+	Auto Center and Zoom Glyph when Window is resized
+	Launch MainType from the Tools, Launch Externals Submenu or the button on the Standard toolbar
+	Glyph caption in Overview window now supports "Symbol Character", used to be ISO
+	Improved glyph validation performance
+	Numerous enhancements to the transformation features
+	Improved background image support
+	Enhanced the Kerning window
+	Option to resume from last time
+	Added a Calculate button to the "Additional Metrics"
+	Added the glyph index to the min/max values within the Font Properties window
+	Save As and Sort Font buttons
+	Added "Open in New Window" when you right-click a composite glyph member
+	Metrics and reference lines in the Glyph Edit window
+	New feature that ensures valid PostScript glyph names
+	Added import kerning pairs with their values
+	Added Open link in webbrowser buttons to specific naming fields
+	New fonts come with predefined outlines
+	Sort glyphs by Microsoft code points, standard Macintosh ordering, PostScript name, or glyph type
+FontCreator 5.5 [May 30, 2006]
+	Changed product name from Font Creator to FontCreator
+	Enhanced user interface with additional buttons for frequent commands
+	More shortcuts and commands to context menus
+	Support for Unicode input (At least Windows 2000 or Windows XP is required)
+	New drawing tools: rectangle and ellipse
+	Improved glyph validation
+	Improved PANOSE settings
+	Added a font preview to the open installed fonts dialog
+	Improved the font test dialog
+	Added align and distribute operations
+	Improved transform wizard (added Insert Characters and Complete Composites)
+	Improved "Select Incomplete glyphs"
+FontCreator 5.0 [January 12, 2005]
+	Changed product name from Font Creator Program to Font Creator
+	Better support for adding (ranges of) characters
+	More calculation support in the Font Settings window
+	Enhanced grid options
+	Snap to grid and snap to guidelines for bearings
+	Support for CFF based OpenType fonts (.otf files)
+	Complete composites; quickly add diacritical marks to incomplete glyphs
+	Contour operations: union, intersection, exclusion and knife
+	Bearings tab on the Transform toolbar
+	Improved glyph validation
+	Comparison toolbar
+FontCreator 4.5 [August 17, 2004]
+	Set Left Side Bearing at x=0 (see Tools -> Options -> Font)
+	Better support for assigning code points from the Supplementary Planes
+	Glyph Transformation window (scale, rotate, etc. all glyphs)
+	Select incomplete glyphs. This way you can delete unwanted glyphs
+	Bookmark support in the Overview window
+	Improved Import Image feature
+	Added drag and drop support for import image on both Overview and Glyph Edit windows
+	Added Launch Externals from Tools menu for Fonts folder and CharMap
+	Next and previous contour – walk through. (Q and W)
+	Snap to grid and guideline support when creating a new contour
+	Lock guidelines support
+	Extended the Naming tab on the Options window. This information is added when you create a new font through File --> New
+	Generate postscript names feature added to the Postscript Names window
+	Calculate supported Unicode ranges on Font Settings --> Ranges tab
+	Calculate supported codepages on Font Settings --> Ranges tab
+	Added predefined preview text (preview.txt) used by the Preview toolbar
+FontCreator 4.1 [December 1, 2003]
+	Improved support for Supplementary Multilingual Planes (SMP)
+	Added snap points to diagonal guidelines
+	Extended search glyph functionality
+	Added measurement feature
+	New freehand selection toolbar button
+	Improved redundant point validation
+	Changed the Validation report into a wizard
+	Added auto fix functionality that solves detected validation problems
+	Added Sort Glyphs feature
+	Enhanced the paste special feature
+	Minor tweaks
+FontCreator 4.0 [May 16, 2003]
+	Windows XP Theme support
+	Improved Open Installed Fonts window
+	Added High-Logic Online in Help menu
+	Sample glyph to be used on empty glyphs
+	Zoom to selected
+	Improved Import Image feature
+	Several new toolbar buttons
+	Snap to grid (points and contours and glyphs)
+	Snap to user defined guidelines (points and contours and glyphs)
+	Split TrueType Collection or Extract TrueType Fonts from TrueType Collection
+	Glyph Validation features
+	Added import kerning pairs support to the AutoKern feature
+	A Font Creator Program Explorer context menu item
+FontCreator 3.1.3 [December 9, 2002]
+	Improved the AutoNaming wizard
+	Improved Unicode support in the Preview window
+	Improved Unicode support in the Naming fields
+FontCreator 3.1.2 [November 29, 2002]
+	Added Insert Glyph toolbar button
+	Added more shortcuts
+	New naming wizard
+FontCreator 3.1.1 [November 3, 2002]
+	Fixed paste special mapping bug
+	Fixed some minor bugs
+	Improved the help file
+FontCreator 3.1 [October 3, 2002]
+	Added a complete the help file
+	Added background image support
+	Some minor improvements
+	Fixed a couple of minor bugs
+FontCreator 3.0.2 [November 3, 2000]
+	Added combine and split contours functionality
+	Fixed two minor bugs
+FontCreator 3.0.1 [October 7, 2000]
+	"Make simple" that converts composite glyphs to simple glyphs.
+	New "Find" option that enables you to find glyphs through their postscript name or mapping values.
+	"Preview Window" where you can see a sample text while editing your glyphs.
+	Improved the undo redo functionality.
+	Copy and paste selections of glyphs.
+	Character to Glyph Index Mappings now show the Unicode Character Names.
+	Add mappings through the Unicode Block Selection Feature.
+	The kerning window shows the two glyphs in the same area.
+	PCL5 window.
+	AutoMetrics.
+	AutoKern.
+	Updated the tutorial.
+	A lot of other minor improvements and new features.
+FontCreator 3.0 Beta 1 [July 30, 2000]
+	A complete rebuild of the software.
+FontCreator 2.2 [January 30, 2000]
+	Updated the tutorial (to version 2.2).
+	Fixed Windows NT access problem with registry and installed fonts.
+	Extended the naming fields also added load and save functionality.
+	Added Monospaced support; adjust distance between letters (requested by Richard R. Kramer and Eric K. Braun).
+	Added more keyboard shortcuts; read the tutorial regarding simple glyphs for specific information.
+	Small adjustments to the templates; version field was not correct.
+	Added an optionally fixed zoom level when opening a glyph. (Antony Shipley mentioned this one).
+	Various tiny bug fixes and enhancements.
+FontCreator 2.1 [November 14, 1999]
+	Updated the tutorial (to version 2.1).
+	Improved the default new font templates. The symbol template used wrong mappings.
+	Added drag and drop functionality to open font files dragged from the explorer to FCP.
+	Added Naming fields License Agreement and License Agreement Link.
+	The Position and the Size Tab on the Transformation Tool Bar now have the actual location and size of the selected contours.
+	Added "Select All" functionality for both contours and points.
+	If a composite glyph used two or more times a same glyph (like the double-quote ") only one was removed when trying to delete the used glyph.
+	A composite glyph should be set to an empty glyph after all its used glyphs are removed.
+	Added "delete gaspranges" available through right-click from menu-item "grayscale..".
+	Fixed a bug that occurred when closing FCP while two or more fonts were still opened.
+FontCreator 2.0 [August 30, 1999]
+	The created and modified date and time properties were not handled correctly.
+	Bug fixed (introduced in version 1.2.1) that resulted in only square (or empty) characters in the test window.
+	Bug fixed that prohibited deleting glyphs in fonts without kerning.
+	The Font Creator Program now prevents exceptions when encountering wrong registry keys when opening the installed fonts window.
+	Added 'Use my metrics' to composite glyph window.
+	Bug fixed that caused an exception when removing the kerning table.
+	Improved the "New Fonts..." feature.
+	Code mappings from the General->Cmap menu item now works with both decimal and hexadecimal values (Thanks to Michael von Glasow).
+	Now you can select what header (postscript name or map codes) is shown above the glyphs in the overview window (Suggested by Tom Thornton, Eric Dowty, Anders Sande and a lot of other people)
+	Set the maximum length of the Font Family Name to 31. Otherwise Windows does not recognize the font.
+	Fixed a small but annoying samplebar bug.
+	Added more info in statusbar while editing simple glyphs.
+	Fixed a bug that didn't enable the paste button when another Font Creator Program performed a copy operation.
+FontCreator 1.2.3 [August 1, 1999]
+	Added functionality that changes the bearings in the glyph edit windows.
+	Some minor bug fixes.
+	Panose information swapped the wrong way. (This bug and the two below were noticed by Uwe Schröder)
+	Width classification bug fixed.
+	Handling of backup files didn't work properly.
+FontCreator 1.2.2 [June 12, 1999]
+	First release of the tutorial!
+	Added Grayscale support. Found in General->Grayscale...
+	Pasting bitmap from clipboard is now allowed (in glyph edit window).
+	Bug fixed, now hinting will be removed when editing a glyph. This was not always the case in version 1.2.1.
+	Added a SpinEdit to the Threshold in the Image to Contour window.
+	Fixed a bug with the glyphs advanced width and left side bearings.
+	Added ascent and decent lines in glyph edit window.
+FontCreator 1.2.1 [June 2, 1999]
+	Kerning glyphs
+	Preserve unknown tables
+	Preserve hinting in font and/ or glyphs. Hinting will only be removed when editing a glyph
+	Reserved Postscript names are mapped to the .notdef name
+	FCP now 'highlights' unused glyphs (actually a little box is shown in the glyph overview window)
+FontCreator 1.2 [May 26, 1999]
+	New advanced feature Image to Glyph conversion added - available from Contours->Import Image... Finally you can add your signature, logo and complete handwriting into your own fonts!
+	Added High-Logic [HL] to the Vendor List!
+	After saving a font file the font is assumed to be unmodified. This improves the functionality added in version 1.1.4.
+FontCreator 1.1.4 [May 15, 1999]
+	Improved the Splash screen.
+	Overlapping points are now drawn as one point. This prevents an even number of points on the exact same position to hide themselves out.
+	Improved the Change setting for Unicode <-> Symbol.
+	Now FCP does a better job of remembering what fonts have been modified. In other words, fonts that not have been changed are now closed without the annoying warning of "saving the font Y/N?". (Thanks to Gwidon S. Naskrent). One more thing; because FCP isn't able to see wheather there's changed anything in a 'General' menu item, FCP assumes the font has been changed if one of those menu items has been selected.
+	Fixed a bug that occurred when closing all windows at ones. It will still occur when you have opened more than 100 fonts at ones.
+	About the Transformation Toolbar - changed the minimum value of the Size edit boxes from -32767 to 1 and changed the direction from the y-axis.
+FontCreator 1.1.3 [April 22, 1999]
+	Fixed a strange bug that occurred when using a mousewheel after FCP was shell executed because an associated file got opened.
+	Finished the toolwindow mentioned in release 1.1.2. Jeff Williams encouraged me to make this feature so manual changes could be made.
+	Added 'snap to grid' support. (Gave it a higher priority thanks to Jeff Lee)
+	Changed the way the actual grid point size behaves. Now it really helps when trying to line up those long lines.
+	The functionality of the 'New contour' feature has been changed. Now the user has to design the contour (manually draw the points). This makes it a lot easier to quickly add contours.
+	Also a lot of small changes and some internal restructuring has taken place.
+	The 'testing a font' feature inside the Font Creator Program now supports printing.
+FontCreator 1.1.2 [April 9, 1999]
+	Double-click in the Glyph Edit window now changes from contour mode to point mode and back.
+	Multiple Undo and Redo Boxes like MS products.
+	Associating the .ttf extension to FCP was never a problem but now it is able to restore the association to the previous application.
+	Finally fixed a bug that sometimes occurred while pasting a large number of glyphs, contours or points.
+	New Floating and dockable toolbars so now FCP has an even more professional interface.
+	Added a checkbox that specifies whether the Font Creator Program should redraw the editing screen while moving contours and points.
+	Started with a toolwindow where you can edit contours and points by typing coordinates etc. This is not finished yet...
+FontCreator 1.1.1c [March 15, 1999]
+	Better way of testing the fonts inside FCP, now all character sets are available.
+FontCreator 1.1.1b [March 14, 1999]
+	Some small fixes, but the improvements are quite big!
+	Updated the new font templates.
+	Added some features in the Metrics menu item. Previous versions prevented installing and creating Symbol fonts.
+FontCreator 1.1.1a [March 11, 1999]
+	Completely redesigned the font installation procedure. Now you are guided through a Wizard, making it possible to inform you when a font is already installed.
+	Open installed font file located in a folder other than the default windows folder now works as expected.
+	Backups for fonts located in the default windows font folder are saved to the fcp folder. This way Windows won't get confused about which fonts actually are installed.
+	Fixed byte versus smallint bug. Some composite glyphs had an unexpected change of the x-offset -- Henry Kammler thanks for reporting this bug.
+	Added color to the glyph captions. This option (like a lot of other options) can be changed through the "Edit->Options" menu item.
+	Made the char grid navigable via arrow keys. The scrollbar lost focus. Gwidon S. Naskrent mentioned this bug and a lot of good tips.
+	When a font has corrupted glyphs they won't show up, you'll see a red rectangle instead.
+FontCreator 1.1.1 [March 3, 1999]
+	Some major bug fixes and a lot of new features added.
+	Finally all required internal font properties are available.
+	New bearings button added.
+	New Table Info menu item added.
+	Some useful tips through the 'tip of the day' feature.
+	A lot of index properties changed to descriptions.
+	New functionality -- convert between Unicode to Symbol Platform.
+FontCreator 1.0.8 [February 21, 1999]
+	Added new menu item "Mode" where you can change between contourmode and pointmode while editing a simple glyph.
+	Extended the glyph properties window.
+	New settings window added to the General menu item.
+	Some major/ fundamental bug fixes, according to deleting contours and points.
+	Changed the way of inserting and deleting glyphs. Now all edit-glyphs windows of the current font have to close before you can perform those operations.
+	More options added to the "Edit -> Option" menu item.
+	Added some new internal calculations, improves the quality of the font file.
+	The "File -> New..." menu item has been implemented. You can choose between a new symbol font and a normal (Unicode) font.
+	Added some settings like glyph width, height and size at overview and samples window.
+FontCreator 1.0.7 [February 16, 1999]
+	Some major bug fixes.
+	Found some nasty bugs in the Undo, Redo and Repeat functionality.
+FontCreator 1.0.6 [February 7, 1999]
+	Some minor changes (button and window positions, sizes etc...)
+	Registry items like recently opened files, position and size of mainform and tool window(s).
+	Registration window, for registered users. At the moment it doesn't mean they get more features. But future versions will have some restrictions for unregistered users.
+	New edit window for changing a glyph's internal name.
+	Fixed a bug with the zoomin button.
+	Fixed a bug with selecting multiple contours.
+FontCreator 1.0.5 [January 25, 1999]
+	Fixed problem with locating the help file. Fixed thanks to Tom TCNS, Derek Baker and Del Fullmer.
+	Open Font files now allows you to open fonts in the Windows font directory.
+FontCreator 1.0.4 [November 4, 1998]
+	Fixed a couple of submenu (right-click menu's) items that where not attached to the existing functionality.
+	Corrected our e-mail and web-site address in the help file.
+	A little more documentation in the help file. Working on this one, but it will take some time.
+	Direct connection through the program to a file at our site, of course only if the user (you) want this!
+FontCreator version 1.0 [April 11, 1998]
+	First public release
+FontCreator Preview release [November 1, 1997]
+Development started [September 14, 1997]
+Research started [March 10, 1997]

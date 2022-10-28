@@ -263,6 +263,12 @@ https://dldir1.qq.com/qqfile/qq/PCQQ9.6.6/QQ9.6.6.28788.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.6.6/QQ9.6.6.28796.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.6.7/QQ9.6.7.28807.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.6.7/QQ9.6.7.28815.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.6.8/QQ9.6.8.28823.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.6.8/QQ9.6.8.28832.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.6.9/QQ9.6.9.28856.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.6.9/QQ9.6.9.28878.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.7.0/QQ9.7.0.28910.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.7.0/QQ9.7.0.28921.exe
 
 PCQQ2020.exe	80.5 MB	2020/02/26 16:59	----
 PCQQ2019.exe	80.2 MB	2019/12/04 16:39	----
