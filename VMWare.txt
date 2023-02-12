@@ -1,2 +1,12 @@
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.0-17198959.exe
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.1-17801498.exe
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.2-17966106.exe
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.0-18760230.exe
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.1-18811642.exe
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.2-19200509.exe
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.3-19376536.exe
 https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
+https://download3.vmware.com/software/WKST-1625-WIN/VMware-workstation-full-16.2.5-20904516.exe
 https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe
+https://download3.vmware.com/software/WKST-1701-WIN/VMware-workstation-full-17.0.1-21139696.exe

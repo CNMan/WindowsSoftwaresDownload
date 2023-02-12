@@ -6,8 +6,8 @@ http://ebstudio.info/download/ebpocket/ebwin4_7_9.zip
 http://ebstudio.info/download/ebpocket/ebwin4_7_10.zip
 http://ebstudio.info/download/KWICFinder/xd2tx219.zip
 http://ebstudio.info/download/KWICFinder/xd2tx2191_x64.zip
-http://files.emeditor.com/emed32_21.9.1_portable.zip
-http://files.emeditor.com/emed64_21.9.1_portable.zip
+http://files.emeditor.com/emed32_22.2.2_portable.zip
+http://files.emeditor.com/emed64_22.2.2_portable.zip
 http://ll.download3.utorrent.com/latest/uTorrent.exe
 http://reg.ezbsys.com/private/3939p575/uiso97pes.exe
 http://www.duplexsecure.com/download/SPTD2inst-v213-x64.exe
@@ -36,7 +36,7 @@ https://dl.google.com/android/repository/platform-tools-latest-windows.zip
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup11.3.15.1966.exe
 https://download3.xnview.com/XnView-win-full.zip
-https://download.aida64.com/aida64business675.zip
+https://download.aida64.com/aida64business685.zip
 https://download.cnki.net/CAJViewer 7.3.151.self.exe
 https://download.cnki.net/CAJViewer 7.3.151.Simple.self.exe
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
@@ -95,12 +95,12 @@ https://www.editplus.com/ftp/epp560_4250.exe
 https://www.editplus.com/ftp/epp560p4272_0831.exe
 https://www.editplus.com/ftp/epp560p4272_0831_64bit.exe
 https://www.emule-project.net/files/emule/eMule0.60d.zip
-https://www.faststonesoft.net/DN/FSCapture98.zip
+https://www.faststonesoft.net/DN/FSCapture99.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
 https://www.faststonesoft.net/DN/FSViewer77.zip
-https://www.foobar2000.org/files/foobar2000_v1.6.12.exe
-https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.2.39_20220902.exe
+https://www.foobar2000.org/files/foobar2000_v1.6.16.exe
+https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.4.0_20221216.exe
 https://www.high-logic.com/FontCreatorSetup.exe
 https://www.high-logic.com/FontCreatorSetup.zip
 https://www.high-logic.com/FontCreatorSetup-x64.exe
@@ -111,23 +111,23 @@ https://www.irif.fr/~jch/software/files/polipo-1.1.1-win32.zip
 https://www.jetico.com/jpf2setup.exe
 https://www.legroom.net/files/software/uniextract161_noinst.rar
 https://www.listary.com/download/Listary.exe
-https://www.nlnetlabs.nl/downloads/unbound/unbound-1.16.2.zip
-https://www.nlnetlabs.nl/downloads/unbound/unbound-1.16.2-w32.zip
+https://www.nlnetlabs.nl/downloads/unbound/unbound-1.17.1.zip
+https://www.nlnetlabs.nl/downloads/unbound/unbound-1.17.1-w32.zip
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win32.7z
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win64.7z
-https://www.python.org/ftp/python/3.11.0/python-3.11.0.exe
-https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
-https://www.python.org/ftp/python/3.11.0/python-3.11.0-embed-amd64.zip
-https://www.python.org/ftp/python/3.11.0/python-3.11.0-embed-win32.zip
+https://www.python.org/ftp/python/3.11.2/python-3.11.2.exe
+https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
+https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-amd64.zip
+https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-win32.zip
 https://www.rlvision.com/files/OfficeImageExtractionWizard_Portable.zip
 https://www.rlvision.com/files/PdfImageExtractionWizard_Portable.zip
-https://www.scootersoftware.com/BCompare-4.4.4.27058_x64.msi
-https://www.scootersoftware.com/BCompare-4.4.4.27058_x86.msi
+https://www.scootersoftware.com/BCompare-4.4.5.27371_x64.msi
+https://www.scootersoftware.com/BCompare-4.4.5.27371_x86.msi
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
-https://www.voidtools.com/Everything-1.4.1.1021.x64.zip
-https://www.voidtools.com/Everything-1.4.1.1021.x86.zip
+https://www.voidtools.com/Everything-1.4.1.1022.x64.zip
+https://www.voidtools.com/Everything-1.4.1.1022.x86.zip
 https://www.winitor.com/tools/pestudio/current/pestudio.zip
-https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220317/wrr/winrar-x32-611sc.exe
-https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220317/wrr/winrar-x64-611sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x32-621sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x64-621sc.exe
 https://www.xlightftpd.com/download/xlight.zip
 https://www.xlightftpd.com/download/xlight-x64.zip
