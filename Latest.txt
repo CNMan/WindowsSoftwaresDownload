@@ -74,8 +74,8 @@ https://jaist.dl.sourceforge.net/project/keepass/KeePass 2.x/2.51/KeePass-2.51.z
 https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.51/KeePass-2.51-Chinese_Simplified.zip
 https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.51/KeePass-2.51-Chinese_Traditional.zip
 https://jaist.dl.sourceforge.net/project/mplayerwin/MPlayer-MEncoder/r38151/mplayer-svn-38151.7z
-https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/zh-CN/Apache_OpenOffice_4.1.13_Win_x86_install_zh-CN.exe
-https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/zh-CN/Apache_OpenOffice_4.1.13_Win_x86_langpack_zh-CN.exe
+https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.14/binaries/zh-CN/Apache_OpenOffice_4.1.14_Win_x86_install_zh-CN.exe
+https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.14/binaries/zh-CN/Apache_OpenOffice_4.1.14_Win_x86_langpack_zh-CN.exe
 https://kjkpub.s3.amazonaws.com/software/sumatrapdf/rel/3.4.6/SumatraPDF-3.4.6-64.zip
 https://kjkpub.s3.amazonaws.com/software/sumatrapdf/rel/3.4.6/SumatraPDF-3.4.6.zip
 https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-5.2-564-e4ac156-win32-dev-xpmod-sse.7z
@@ -121,8 +121,8 @@ https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-amd64.zip
 https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-win32.zip
 https://www.rlvision.com/files/OfficeImageExtractionWizard_Portable.zip
 https://www.rlvision.com/files/PdfImageExtractionWizard_Portable.zip
-https://www.scootersoftware.com/BCompare-4.4.5.27371_x64.msi
-https://www.scootersoftware.com/BCompare-4.4.5.27371_x86.msi
+https://www.scootersoftware.com/BCompare-4.4.6.27483_x64.msi
+https://www.scootersoftware.com/BCompare-4.4.6.27483_x86.msi
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
 https://www.voidtools.com/Everything-1.4.1.1022.x64.zip
 https://www.voidtools.com/Everything-1.4.1.1022.x86.zip
