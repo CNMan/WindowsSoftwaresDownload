@@ -1,0 +1,5 @@
+32Bit:https://dl.google.com/release2/chrome/kr3ekrngooyu46qwruasnjsjey_109.0.5414.129/109.0.5414.129_chrome_installer.exe
+64Bit:https://dl.google.com/release2/chrome/juzaykgd5e6nyvk27fwtbrjgoa_109.0.5414.129/109.0.5414.129_chrome_installer.exe
+
+https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a37eade6-cd7b-42ab-94d0-307b9e6ec4c0/MicrosoftEdgeEnterpriseX64.msi
+https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc4f8255-2ad7-4ab0-a32e-189a2141eec7/MicrosoftEdgeEnterpriseX86.msi

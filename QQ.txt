@@ -275,6 +275,8 @@ https://dldir1.qq.com/qqfile/qq/PCQQ9.7.1/QQ9.7.1.28934.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.7.1/QQ9.7.1.28940.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.7.3/QQ9.7.3.28946.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.7.5/QQ9.7.5.28965.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.7.6/QQ9.7.6.28987.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.7.6/QQ9.7.6.28989.exe
 
 PCQQ2020.exe	80.5 MB	2020/02/26 16:59	----
 PCQQ2019.exe	80.2 MB	2019/12/04 16:39	----

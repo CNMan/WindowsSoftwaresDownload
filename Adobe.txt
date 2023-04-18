@@ -154,3 +154,6 @@ http://ardownload.adobe.com/pub/adobe/acrobat/win/11.x/11.0.21/misc/AcrobatUpd11
 http://ardownload.adobe.com/pub/adobe/acrobat/win/11.x/11.0.22/misc/AcrobatUpd11022_incr.msp
 http://ardownload.adobe.com/pub/adobe/acrobat/win/11.x/11.0.23/misc/AcrobatUpd11023.msp
 http://ardownload.adobe.com/pub/adobe/acrobat/win/11.x/11QFE/misc/AcrobatUpd_qfe3559759.msp
+
+http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_en_US.exe
+http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_zh_CN.exe

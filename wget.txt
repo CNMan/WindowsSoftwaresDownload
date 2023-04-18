@@ -1,0 +1,6 @@
+wget --header="Referer: https://eternallybored.org/misc/wget/" url
+
+https://eternallybored.org/misc/wget/releases/old/wget-1.19.4-win32.zip
+https://eternallybored.org/misc/wget/releases/old/wget-1.19.4-win64.zip
+https://eternallybored.org/misc/wget/releases/wget-1.21.3-win32.zip
+https://eternallybored.org/misc/wget/releases/wget-1.21.3-win64.zip
