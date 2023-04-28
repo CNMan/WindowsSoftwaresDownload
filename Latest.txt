@@ -28,6 +28,10 @@ https://dl.cmbimg.com/download/PB/PBSetup70.exe
 https://dl.google.com/android/repository/platform-tools-latest-windows.zip
 https://dl3.xmind.net/xmind-8-update9-windows.zip
 https://dl3.xmind.net/Xmind-for-Windows-64bit-22.08.2357.exe
+https://dl-cdn.oray.com/sunlogin/windows/SunloginClient_13.2.0.55335.exe
+https://dl-cdn.oray.com/sunlogin/windows/SunloginClient_13.2.0.55335_x64.exe
+https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638.exe
+https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638_x64.exe
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup11.3.15.1966.exe
 https://download.aida64.com/aida64business688.zip
@@ -99,7 +103,7 @@ https://www.editplus.com/ftp/epp570_4352_64bit.exe
 https://www.editplus.com/ftp/epp570p4385_0221.exe
 https://www.editplus.com/ftp/epp570p4385_0221_64bit.exe
 https://www.emule-project.net/files/emule/eMule0.60d.zip
-https://www.faststonesoft.net/DN/FSCapture99.zip
+https://www.faststonesoft.net/DN/FSCapture100.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
 https://www.faststonesoft.net/DN/FSViewer77.zip
@@ -119,17 +123,17 @@ https://www.nlnetlabs.nl/downloads/unbound/unbound-1.17.1.zip
 https://www.nlnetlabs.nl/downloads/unbound/unbound-1.17.1-w32.zip
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win32.7z
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win64.7z
-https://www.python.org/ftp/python/3.11.2/python-3.11.2.exe
-https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
-https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-amd64.zip
-https://www.python.org/ftp/python/3.11.2/python-3.11.2-embed-win32.zip
+https://www.python.org/ftp/python/3.11.3/python-3.11.3.exe
+https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
+https://www.python.org/ftp/python/3.11.3/python-3.11.3-embed-amd64.zip
+https://www.python.org/ftp/python/3.11.3/python-3.11.3-embed-win32.zip
 https://www.rlvision.com/files/OfficeImageExtractionWizard_Portable.zip
 https://www.rlvision.com/files/PdfImageExtractionWizard_Portable.zip
 https://www.scootersoftware.com/BCompare-4.4.6.27483_x64.msi
 https://www.scootersoftware.com/BCompare-4.4.6.27483_x86.msi
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
-https://www.voidtools.com/Everything-1.4.1.1022.x64.zip
-https://www.voidtools.com/Everything-1.4.1.1022.x86.zip
+https://www.voidtools.com/Everything-1.4.1.1023.x64.zip
+https://www.voidtools.com/Everything-1.4.1.1023.x86.zip
 https://www.winitor.com/tools/pestudio/current/pestudio.zip
 https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x32-621sc.exe
 https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x64-621sc.exe

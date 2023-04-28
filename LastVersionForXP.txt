@@ -9,6 +9,7 @@ https://fineprint.com/release/fp937.exe
 https://fineprint.com/release/pdf637pro.exe
 https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox Setup 52.9.0esr.exe
 https://ftp.mozilla.org/pub/thunderbird/releases/52.9.1/win32/en-US/Thunderbird Setup 52.9.1.exe
+https://github.com/activescott/lessmsi/releases/download/v1.6.91/lessmsi-v1.6.91.zip
 https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/PortableGit-2.10.0-32-bit.7z.exe
 https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/PortableGit-2.10.0-64-bit.7z.exe
 https://github.com/rime/weasel/releases/download/0.9.30/weasel-0.9.30.0-installer.exe
