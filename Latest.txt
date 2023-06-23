@@ -5,8 +5,6 @@ http://ebstudio.info/download/ebpocket/ebwin4_7_9.zip
 http://ebstudio.info/download/ebpocket/ebwin4_7_10.zip
 http://ebstudio.info/download/KWICFinder/xd2tx219.zip
 http://ebstudio.info/download/KWICFinder/xd2tx2191_x64.zip
-http://files.emeditor.com/emed32_22.2.12_portable.zip
-http://files.emeditor.com/emed64_22.2.12_portable.zip
 http://ll.download3.utorrent.com/latest/uTorrent.exe
 http://reg.ezbsys.com/private/3939p575/uiso97pes.exe
 http://www.haoxg.net/download/colorpicker.zip
@@ -34,7 +32,9 @@ https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638.exe
 https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638_x64.exe
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup11.3.15.1966.exe
-https://download.aida64.com/aida64business688.zip
+https://download.aida64.com/aida64business690.zip
+https://download.emeditor.info/emed32_22.4.2_portable.zip
+https://download.emeditor.info/emed64_22.4.2_portable.zip
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
@@ -64,7 +64,7 @@ https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x86.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x86.zip
-https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe
+https://github.com/rime/weasel/releases/download/0.15.0/weasel-0.15.0.0-installer.exe
 https://jaist.dl.sourceforge.net/project/emule/eMule/0.50a/eMule0.50a.zip
 https://jaist.dl.sourceforge.net/project/innounp/innounp/innounp 0.50/innounp050.rar
 https://jaist.dl.sourceforge.net/project/irfanview/iview460_setup.exe
@@ -84,8 +84,8 @@ https://t1.daumcdn.net/potplayer/PotPlayer/Codec/OpenCodecSetup.exe
 https://t1.daumcdn.net/potplayer/PotPlayer/Codec/OpenCodecSetup64.exe
 https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe
 https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
-https://www.7-zip.org/a/7z2201.exe
-https://www.7-zip.org/a/7z2201-x64.exe
+https://www.7-zip.org/a/7z2301.exe
+https://www.7-zip.org/a/7z2301-x64.exe
 https://www.autohotkey.com/download/ahk.zip
 https://www.autohotkey.com/download/ahk-v2.zip
 https://www.autoitscript.com/files/autoit3/autoit-v3.zip
@@ -100,10 +100,10 @@ https://www.editplus.com/ftp/epp560p4328_1130.exe
 https://www.editplus.com/ftp/epp560p4328_1130_64bit.exe
 https://www.editplus.com/ftp/epp570_4352.exe
 https://www.editplus.com/ftp/epp570_4352_64bit.exe
-https://www.editplus.com/ftp/epp570p4385_0221.exe
-https://www.editplus.com/ftp/epp570p4385_0221_64bit.exe
+https://www.editplus.com/ftp/epp570p4494_0608.exe
+https://www.editplus.com/ftp/epp570p4494_0608_64bit.exe
 https://www.emule-project.net/files/emule/eMule0.60d.zip
-https://www.faststonesoft.net/DN/FSCapture100.zip
+https://www.faststonesoft.net/DN/FSCapture102.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
 https://www.faststonesoft.net/DN/FSViewer77.zip
@@ -132,10 +132,10 @@ https://www.rlvision.com/files/PdfImageExtractionWizard_Portable.zip
 https://www.scootersoftware.com/BCompare-4.4.6.27483_x64.msi
 https://www.scootersoftware.com/BCompare-4.4.6.27483_x86.msi
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
-https://www.voidtools.com/Everything-1.4.1.1023.x64.zip
-https://www.voidtools.com/Everything-1.4.1.1023.x86.zip
+https://www.voidtools.com/Everything-1.4.1.1024.x64.zip
+https://www.voidtools.com/Everything-1.4.1.1024.x86.zip
 https://www.winitor.com/tools/pestudio/current/pestudio.zip
-https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x32-621sc.exe
-https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x64-621sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230607/wrr/winrar-x32-622sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230607/wrr/winrar-x64-622sc.exe
 https://www.xlightftpd.com/download/xlight.zip
 https://www.xlightftpd.com/download/xlight-x64.zip

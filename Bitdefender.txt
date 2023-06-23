@@ -14,3 +14,5 @@ https://download.bitdefender.com/windows/desktop/connect/cl/2021/all/bitdefender
 https://download.bitdefender.com/windows/desktop/connect/cl/2021/all/bitdefender_ts_25_64b.exe
 https://download.bitdefender.com/windows/desktop/connect/cl/2022/all/bitdefender_ts_26_32b.exe
 https://download.bitdefender.com/windows/desktop/connect/cl/2022/all/bitdefender_ts_26_64b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2023/all/bitdefender_ts_27_32b.exe
+https://download.bitdefender.com/windows/desktop/connect/cl/2023/all/bitdefender_ts_27_64b.exe

@@ -1,15 +1,25 @@
 32Bit:
 https://dl.google.com/release2/chrome/kr3ekrngooyu46qwruasnjsjey_109.0.5414.129/109.0.5414.129_chrome_installer.exe
 https://dl.google.com/release2/chrome/accqbpi5rq2su3yx4qzgu2zdrl4q_109.0.5414.141/109.0.5414.141_chrome_installer.exe
+https://dl.google.com/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe
 64Bit:
 https://dl.google.com/release2/chrome/juzaykgd5e6nyvk27fwtbrjgoa_109.0.5414.129/109.0.5414.129_chrome_installer.exe
 https://dl.google.com/release2/chrome/okwuqsvyf2bgppzm2557sokhb4_109.0.5414.141/109.0.5414.141_chrome_installer.exe
+https://dl.google.com/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe
 
 https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a37eade6-cd7b-42ab-94d0-307b9e6ec4c0/MicrosoftEdgeEnterpriseX64.msi
 https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc4f8255-2ad7-4ab0-a32e-189a2141eec7/MicrosoftEdgeEnterpriseX86.msi
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/microsoftedgeenterprisex64_72369b44d111c9184b96905f250e50b823fdf2f5.cab
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/microsoftedgeenterprisex86_fc8c3a2783d3bd26d45c69da58459a245b2b8c75.cab
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/microsoftedgestandaloneinstallerx64_e1a29a123312d5a4406dfefa38a8015f0ce00108.exe
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/microsoftedgestandaloneinstallerx86_7f2264b41f17e15856f6519a5695cda0bea12770.exe
 
 https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe
 https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
 https://www.python.org/ftp/python/3.8.10/python-3.8.10-embed-amd64.zip
 https://www.python.org/ftp/python/3.8.10/python-3.8.10-embed-win32.zip
 https://www.python.org/ftp/python/3.8.10/python3810.chm
+
+https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe
