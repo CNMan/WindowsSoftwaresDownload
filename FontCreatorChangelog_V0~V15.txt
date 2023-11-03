@@ -1,3 +1,86 @@
+FontCreator 15.0.0.2949 [November 2, 2023]
+    Fixed issue with exporting Italic fonts
+FontCreator 15.0.0.2948 [November 1, 2023]
+    Fixed issue with clipboard
+    Fixed transparent background issue with dark theme
+    Several minor improvements
+FontCreator 15.0.0.2945 [October 23, 2023]
+    Fixed issue with exporting specific control characters
+    Several minor improvements
+FontCreator 15.0.0.2943 [October 20, 2023]
+    Fixed minor flaw in optimize contours feature
+    Several minor improvements
+FontCreator 15.0.0.2942 [October 18, 2023]
+    Improved join contours (union, intersection, exclusion) feature
+    Improved knife (cut through contours) feature
+FontCreator 15.0.0.2941 [October 13, 2023]
+    Improved .glyph import
+    Improved copy and paste of raster-based images
+    Improved optimize contour feature
+    Improved generation of glyph names for release
+    Improved opening variable fonts
+    Improved export of Chinese fonts
+    Fixed Hollow transformation feature
+    Fixed failing to start FontCreator with system language region format set to Arabic
+    Numerous minor improvements
+FontCreator 15.0.0.2936 [September 21, 2023]
+    Improved shaping engine; better bidirectional text preview
+    Improved Transform panel; supporting operations on selected points
+    Added support for Unicode 15.1
+    Minor performance increase
+FontCreator 15.0.0.2934 [September 13, 2023]
+    Added Lock aspect ratio to Transform panel as well as support for expressions in X and Y position
+    Fixed single stroke preview issue
+    Fixed rare undo bug related to outline editing
+FontCreator 15.0.0.2931 [September 6, 2023]
+    Several minor improvements
+FontCreator 15.0.0.2927 [September 1, 2023]
+    Fixed rare issue concerning glyphs without layers
+FontCreator 15.0.0.2926 [August 31, 2023]
+    Elements -> supports outlines with both components and contours, so called hybrid outlines
+    Redesigned Transform panel
+    Support for the GlyphsApp .glyphs file format
+    Improved shaping engine
+    Improved detection and fixing of interpolation issues
+    Improved auto attach
+    Improved optimize contour feature
+    Improved join (union, intersection, exclusion, and also cut/knife) contours feature; including support for cubic curves
+    Improved support for UFO and DesignSpaces
+    Improved subsetting variable fonts
+    Order axes
+    Made optional mark attachment class for lookups obsolete (instead use a mark filtering set)
+    Cancel changes in edit field (ESC key)
+    Fixed remove overlap issue
+    New transform feature to round xy coordinates
+    Increased stability and some speed gains
+    Several other bug fixes and improvements
+FontCreator 14.0.0.2901 [January 6, 2023]
+    Improved the validation features
+    Improved curve selection
+    Improved union, intersection, and exclusion of contours
+    Added groups and kerning to the UFO export
+    Anchors are now merged when compiling feature code
+    Fixed issue with joining and splitting contours
+    New line height option in Web Font test page
+FontCreator 14.0.0.2899 [December 20, 2022]
+    Fixed optical metrics issue
+    Fixed join contours issue
+FontCreator 14.0.0.2898 [December 15, 2022]
+    Fixed an export issue related to .notdef
+    Improved incorrect contour direction algorithm
+    Fixed undo issue releated to font validation wizard
+FontCreator 14.0.0.2897 [December 8, 2022]
+    Fixed an OpenType layout feature related export issue
+    Improved algorithm for determining contour directions
+FontCreator 14.0.0.2896 [November 24, 2022]
+    Fixed export issue
+FontCreator 14.0.0.2895 [November 23, 2022]
+    Fixed rare undo issue
+    Dropped restrictions related to trial period and home edition
+FontCreator 14.0.0.2894 [November 22, 2022]
+    Fixed variable font interpolation issue
+    Several minor improvements and bug fixes
+    Updated Help and Manual
 FontCreator 14.0.0.2888 [November 1, 2022]
 	Several minor improvements and bug fixes
 FontCreator 14.0.0.2886 [October 31, 2022]
