@@ -33,9 +33,10 @@ https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638.exe
 https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638_x64.exe
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup11.3.15.1966.exe
-https://download.aida64.com/aida64business692.zip
-https://download.emeditor.info/emed32_23.0.2_portable.zip
-https://download.emeditor.info/emed64_23.0.2_portable.zip
+https://download.aida64.com/aida64business700.zip
+https://download.emeditor.info/emed32_23.0.5_portable.zip
+https://download.emeditor.info/emed64_23.0.5_portable.zip
+https://download.emeditor.info/help/emed_help_zh-cn_23.0.5.msi
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
@@ -76,8 +77,8 @@ https://jaist.dl.sourceforge.net/project/keepass/KeePass 2.x/2.55/KeePass-2.55.z
 https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.55/KeePass-2.55-Chinese_Simplified.zip
 https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.55/KeePass-2.55-Chinese_Traditional.zip
 https://jaist.dl.sourceforge.net/project/mplayerwin/MPlayer-MEncoder/r38151/mplayer-svn-38151.7z
-https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.14/binaries/zh-CN/Apache_OpenOffice_4.1.14_Win_x86_install_zh-CN.exe
-https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.14/binaries/zh-CN/Apache_OpenOffice_4.1.14_Win_x86_langpack_zh-CN.exe
+https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.15/binaries/zh-CN/Apache_OpenOffice_4.1.15_Win_x86_install_zh-CN.exe
+https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.15/binaries/zh-CN/Apache_OpenOffice_4.1.15_Win_x86_langpack_zh-CN.exe
 https://nlnetlabs.nl/downloads/unbound/unbound-1.19.0.zip
 https://nlnetlabs.nl/downloads/unbound/unbound-1.19.0-w32.zip
 https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.1-2009-bef151d-win32-dev-xpmod-sse.7z
@@ -106,10 +107,10 @@ https://www.editplus.com/ftp/epp560p4328_1130.exe
 https://www.editplus.com/ftp/epp560p4328_1130_64bit.exe
 https://www.editplus.com/ftp/epp570_4352.exe
 https://www.editplus.com/ftp/epp570_4352_64bit.exe
-https://www.editplus.com/ftp/epp570p4535_1006.exe
-https://www.editplus.com/ftp/epp570p4535_1006_64bit.exe
+https://www.editplus.com/ftp/epp570p4581_1213.exe
+https://www.editplus.com/ftp/epp570p4581_1213_64bit.exe
 https://www.emule-project.net/files/emule/eMule0.60d.zip
-https://www.faststonesoft.net/DN/FSCapture103.zip
+https://www.faststonesoft.net/DN/FSCapture104.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
 https://www.faststonesoft.net/DN/FSViewer78.zip

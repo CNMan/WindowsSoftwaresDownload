@@ -1,3 +1,7 @@
+https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.1.0.474/english-4.1.0.474/3530393034387c44454c7c31/kuu4.1.0.474_aarch64_en.tar.gz
+https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.1.0.474/english-4.1.0.474/3530393035307c44454c7c31/kuu4.1.0.474_i686-linux_en.tar.gz
+https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.1.0.474/english-4.1.0.474/3530393035317c44454c7c31/kuu4.1.0.474_x86_64_en.tar.gz
+
 http://aes.kaspersky-labs.com/chinese_simplified/endpoints/kes10windows/kes10winsp1_mr4_zh-hans_aes56.exe
 http://aes.kaspersky-labs.com/chinese_simplified/endpoints/kes10windows/kes10winsp1_mr4_zh-hans_aes256.exe
 http://aes.kaspersky-labs.com/english/endpoints/kes10windows/kes10winsp1_mr4_en_aes56.exe
@@ -92,3 +96,15 @@ https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplifie
 https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.166.0/3737373031397c44454c7c4e554c4c/klcfginst.msi
 https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.166.0/3737373032327c44454c7c4e554c4c/keswin_web_plugin_12.3.0.493.zip
 https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.166.0/3737373032377c44454c7c4e554c4c/ReleaseNotes.txt
+
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/english-21.15.8.493.0.389.0/3739343434377c44454c7c31/keswin_12.3.0.493_en_aes256.exe
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/english-21.15.8.493.0.389.0/3739343434397c44454c7c31/keswin_12.3.0.493_en_aes56.exe
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/english-21.15.8.493.0.389.0/3739343435327c44454c7c4e554c4c/klcfginst.msi
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/english-21.15.8.493.0.389.0/3739343435357c44454c7c4e554c4c/keswin_web_plugin_12.3.0.493.zip
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/english-21.15.8.493.0.389.0/3739343436317c44454c7c4e554c4c/ReleaseNotes.txt
+
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.406.0/3739343233337c44454c7c31/keswin_12.3.0.493_zh-Hans_aes256.exe
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.406.0/3739343233347c44454c7c31/keswin_12.3.0.493_zh-Hans_aes56.exe
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.406.0/3739343233377c44454c7c4e554c4c/klcfginst.msi
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.406.0/3739343234307c44454c7c4e554c4c/keswin_web_plugin_12.3.0.493.zip
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.406.0/3739343234357c44454c7c4e554c4c/ReleaseNotes.txt
