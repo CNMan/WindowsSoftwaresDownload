@@ -1,3 +1,20 @@
+FontCreator 15.0.0.2955 [December 14, 2023]
+    Fixed crash on closing glyph panel
+    Improved Bold and Thin features in Transform wizard
+    Several minor improvements
+FontCreator 15.0.0.2952 [December 1, 2023]
+    Fixed issue with losing hinting on exporting font
+    Improved join and split contours in point mode
+    Several minor improvements
+FontCreator 15.0.0.2951 [November 22, 2023]
+    Improved auto composite data behaviour
+    Several minor improvements
+FontCreator 15.0.0.2950 [November 20, 2023]
+    Fixed composite data loading issue
+    Added align actions to context menu in glyph panel
+    Improved shaping engine
+    Improved Open Installed Fonts dialog
+    Several minor improvements
 FontCreator 15.0.0.2949 [November 2, 2023]
     Fixed issue with exporting Italic fonts
 FontCreator 15.0.0.2948 [November 1, 2023]

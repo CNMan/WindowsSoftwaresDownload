@@ -108,3 +108,15 @@ https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplifie
 https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.406.0/3739343233377c44454c7c4e554c4c/klcfginst.msi
 https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.406.0/3739343234307c44454c7c4e554c4c/keswin_web_plugin_12.3.0.493.zip
 https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/chinese_simplified-21.15.8.493.0.406.0/3739343234357c44454c7c4e554c4c/ReleaseNotes.txt
+
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/english-21.16.6.467.0.32.0/3830393431337c44454c7c31/keswin_12.4.0.467_en_aes256.exe
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/english-21.16.6.467.0.32.0/3830393431347c44454c7c31/keswin_12.4.0.467_en_aes56.exe
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/english-21.16.6.467.0.32.0/3830393431377c44454c7c4e554c4c/klcfginst.msi
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/english-21.16.6.467.0.32.0/3830393432307c44454c7c4e554c4c/keswin_web_plugin_12.4.0.467.zip
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/english-21.16.6.467.0.32.0/3830393432367c44454c7c4e554c4c/ReleaseNotes.txt
+
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/chinese_simplified-21.16.6.467.0.159.0/3830393336387c44454c7c31/keswin_12.4.0.467_zh-Hans_aes256.exe
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/chinese_simplified-21.16.6.467.0.159.0/3830393336397c44454c7c31/keswin_12.4.0.467_zh-Hans_aes56.exe
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/chinese_simplified-21.16.6.467.0.159.0/3830393337327c44454c7c4e554c4c/klcfginst.msi
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/chinese_simplified-21.16.6.467.0.159.0/3830393337357c44454c7c4e554c4c/keswin_web_plugin_12.4.0.467.zip
+https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.4.0.467/chinese_simplified-21.16.6.467.0.159.0/3830393338307c44454c7c4e554c4c/ReleaseNotes.txt

@@ -29,3 +29,6 @@ https://www.python.org/ftp/python/3.8.10/python-3.8.10-embed-win32.zip
 https://www.python.org/ftp/python/3.8.10/python3810.chm
 
 https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe
+
+https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-32-bit.7z.exe
+https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-64-bit.7z.exe
