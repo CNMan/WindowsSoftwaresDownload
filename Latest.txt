@@ -28,9 +28,9 @@ https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638_x64.exe
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup11.3.15.1966.exe
 https://download.aida64.com/aida64business720.zip
-https://download.emeditor.info/emed32_24.0.0_portable.zip
-https://download.emeditor.info/emed64_24.0.0_portable.zip
-https://download.emeditor.info/help/emed_help_zh-cn_24.0.0.msi
+https://download.emeditor.info/emed32_24.0.1_portable.zip
+https://download.emeditor.info/emed64_24.0.1_portable.zip
+https://download.emeditor.info/help/emed_help_zh-cn_24.0.1.msi
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
@@ -40,8 +40,8 @@ https://download.sysinternals.com/files/SysinternalsSuite.zip
 https://download.techsmith.com/camtasiastudio/releases/camtasia.msi
 https://download.techsmith.com/snagit/releases/snagit.msi
 https://download3.xnview.com/XnView-win-full.zip
-https://downloads.wiris.com/mathtype/windows/MathType-win-en-7.7.1.258.exe
-https://downloads.wiris.com/mathtype/windows/MathType-win-zh-7.7.1.258.exe
+https://downloads.wiris.com/mathtype/windows/MathType-win-en-7.8.0.0.exe
+https://downloads.wiris.com/mathtype/windows/MathType-win-zh-7.8.0.0.exe
 https://downloads.wisecleaner.com/soft/WiseCare365.zip
 https://downloads.wisecleaner.com/soft/WRCFree.zip
 https://ebstudio.info/download/ebpocket/ebwin4_5_5R2.zip
@@ -152,8 +152,8 @@ https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
 https://www.voidtools.com/Everything-1.4.1.1024.x64.zip
 https://www.voidtools.com/Everything-1.4.1.1024.x86.zip
 https://www.winitor.com/tools/pestudio/current/pestudio.zip
-https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20231013/wrr/winrar-x32-624sc.exe
-https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20231013/wrr/winrar-x64-624sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x32-700sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x64-700sc.exe
 https://www.xlightftpd.com/download/xlight.zip
 https://www.xlightftpd.com/download/xlight-x64.zip
 https://www.x-ways.net/winhex.zip
