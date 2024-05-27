@@ -1,0 +1,3 @@
+https://files.jrsoftware.org/is/6/innosetup-6.2.2.exe
+https://mlaan2.home.xs4all.nl/iscrypt/ISCrypt.dll
+https://mlaan2.home.xs4all.nl/iscrypt/ISCrypt.zip

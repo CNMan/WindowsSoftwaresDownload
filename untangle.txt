@@ -1,0 +1,8 @@
+https://downloads.untangle.com/public/current-release/MFW/MFW-US-e3-v5.0.1.img.gz
+https://downloads.untangle.com/public/current-release/MFW/MFW-US-e6-v5.0.1.img.gz
+https://downloads.untangle.com/public/current-release/MFW/MFW-US-VDI-v5.0.1.vdi
+https://downloads.untangle.com/public/current-release/MFW/mfw-us-x86-64-generic-combined-esxi-flat_v5.0.1-0-g403235ab49_20231017T0419.vmdk
+https://downloads.untangle.com/public/current-release/MFW/mfw-us-x86-64-generic-combined-esxi_v5.0.1-0-g403235ab49_20231017T0419.vmdk
+https://downloads.untangle.com/public/current-release/NGFW/NGFW-17.1.1.iso
+https://downloads.untangle.com/public/current-release/NGFW/NGFW-SERIAL-17.1.1.iso
+https://downloads.untangle.com/public/UntangleActiveDirectoryMonitorSetup.exe

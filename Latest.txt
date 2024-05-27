@@ -15,6 +15,7 @@ http://www.haoxg.net/download/winspy.zip
 https://awscli.amazonaws.com/AWSCLIV2.msi
 https://cdn.ipip.net/17mon/besttrace.exe
 https://dl.bitvise.com/BvSshClient-Inst.exe
+https://dl.bitvise.com/BvSshServer-Inst.exe
 https://dl.cmbimg.com/download/PB/PBSetup60.exe
 https://dl.cmbimg.com/download/PB/PBSetup70.exe
 https://dl.google.com/android/repository/platform-tools-latest-windows.zip
@@ -29,14 +30,15 @@ https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638_x64.exe
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup11.3.15.1966.exe
 https://download.aida64.com/aida64business720.zip
-https://download.emeditor.info/emed32_24.1.1_portable.zip
-https://download.emeditor.info/emed64_24.1.1_portable.zip
-https://download.emeditor.info/help/emed_help_zh-cn_24.1.1.msi
+https://download.emeditor.info/emed32_24.2.0_portable.zip
+https://download.emeditor.info/emed64_24.2.0_portable.zip
+https://download.emeditor.info/help/emed_help_zh-cn_24.2.0.msi
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
 https://download.sublimetext.com/Sublime Text Build 3211.zip
-https://download.sublimetext.com/sublime_text_build_4169_x64.zip
+https://download.sublimetext.com/sublime_text_build_4175.zip
+https://download.sublimetext.com/sublime_text_build_4175_x64.zip
 https://download.sysinternals.com/files/SysinternalsSuite.zip
 https://download.techsmith.com/camtasiastudio/releases/camtasia.msi
 https://download.techsmith.com/snagit/releases/snagit.msi
@@ -69,13 +71,20 @@ https://get.videolan.org/vlc/3.0.20/win32/vlc-3.0.20-win32.zip
 https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.zip
 https://gitee.com/devcpp/cterm/attach_files/708293/download/CTerm-3.6.6.rar
 https://github.com/activescott/lessmsi/releases/download/v1.10.0/lessmsi-v1.10.0.zip
-https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-32-bit.7z.exe
-https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-64-bit.7z.exe
+https://github.com/Aleksoid1978/MPC-BE/releases/download/1.7.1/MPC-BE.1.7.1.x64.7z
+https://github.com/Aleksoid1978/MPC-BE/releases/download/1.7.1/MPC-BE.1.7.1.x86.7z
+https://github.com/Aleksoid1978/MPC-BE/releases/download/1.7.1/standalone_filters-mpc-be.1.7.1.x64.7z
+https://github.com/Aleksoid1978/MPC-BE/releases/download/1.7.1/standalone_filters-mpc-be.1.7.1.x86.7z
+https://github.com/clsid2/mpc-hc/releases/download/2.2.1/MPC-HC.2.2.1.x64.zip
+https://github.com/clsid2/mpc-hc/releases/download/2.2.1/MPC-HC.2.2.1.x86.zip
+https://github.com/clsid2/mpc-hc/releases/download/2.2.1/MPCVideoRenderer_0.8.0.2223.zip
+https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/PortableGit-2.45.2-32-bit.7z.exe
+https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/PortableGit-2.45.2-64-bit.7z.exe
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x86.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x86.zip
-https://github.com/rime/weasel/releases/download/0.15.0/weasel-0.15.0.0-installer.exe
+https://github.com/rime/weasel/releases/download/0.16.0/weasel-0.16.0.0-installer.exe
 https://jaist.dl.sourceforge.net/project/emule/eMule/0.50a/eMule0.50a.zip
 https://jaist.dl.sourceforge.net/project/innounp/innounp/innounp 0.50/innounp050.rar
 https://jaist.dl.sourceforge.net/project/irfanview/iview460_x64_setup.exe
@@ -86,10 +95,10 @@ https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.56/KeePass-2
 https://jaist.dl.sourceforge.net/project/mplayerwin/MPlayer-MEncoder/r38151/mplayer-svn-38151.7z
 https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.15/binaries/zh-CN/Apache_OpenOffice_4.1.15_Win_x86_install_zh-CN.exe
 https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.15/binaries/zh-CN/Apache_OpenOffice_4.1.15_Win_x86_langpack_zh-CN.exe
-https://nlnetlabs.nl/downloads/unbound/unbound-1.19.3.zip
-https://nlnetlabs.nl/downloads/unbound/unbound-1.19.3-w32.zip
-https://raw.githubusercontent.com/nyam1003/imagine/main/Imagine_1.5.0_Unicode_Full.zip
-https://raw.githubusercontent.com/nyam1003/imagine/main/x64/Imagine_1.5.0_x64_Unicode_Full.zip
+https://nlnetlabs.nl/downloads/unbound/unbound-1.20.0.zip
+https://nlnetlabs.nl/downloads/unbound/unbound-1.20.0-w32.zip
+https://raw.githubusercontent.com/nyam1003/imagine/main/Imagine_1.5.2_Unicode_Full.zip
+https://raw.githubusercontent.com/nyam1003/imagine/main/x64/Imagine_1.5.2_x64_Unicode_Full.zip
 https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.2-609-238f9de-win32-dev-xpmod-sse.7z
 https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.2-609-238f9de-win32-shared-xpmod-sse.7z
 https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.2-609-238f9de-win32-static-xpmod-sse.7z
@@ -101,8 +110,8 @@ https://totalcommander.ch/1103/tcmd1103x32.exe
 https://totalcommander.ch/1103/tcmd1103x32_64.exe
 https://totalcommander.ch/1103/tcmd1103x64.exe
 https://update.bioruebe.com/uniextract/files/nightly.zip
-https://www.7-zip.org/a/7z2301.exe
-https://www.7-zip.org/a/7z2301-x64.exe
+https://www.7-zip.org/a/7z2405.exe
+https://www.7-zip.org/a/7z2405-x64.exe
 https://www.autohotkey.com/download/ahk.zip
 https://www.autohotkey.com/download/ahk-v2.zip
 https://www.autoitscript.com/files/autoit3/autoit-v3.zip
@@ -118,24 +127,26 @@ https://www.editplus.com/ftp/epp560p4328_1130.exe
 https://www.editplus.com/ftp/epp560p4328_1130_64bit.exe
 https://www.editplus.com/ftp/epp570_4352.exe
 https://www.editplus.com/ftp/epp570_4352_64bit.exe
-https://www.editplus.com/ftp/epp570p4589_0321.exe
-https://www.editplus.com/ftp/epp570p4589_0321_64bit.exe
+https://www.editplus.com/ftp/epp570p4632_0507.exe
+https://www.editplus.com/ftp/epp570p4632_0507_64bit.exe
 https://www.emule-project.net/files/emule/eMule0.60d.zip
-https://www.faststonesoft.net/DN/FSCapture104.zip
+https://www.faststonesoft.net/DN/FSCapture105.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
 https://www.faststonesoft.net/DN/FSViewer78.zip
-https://www.foobar2000.org/files/foobar2000_v2.1.3.exe
-https://www.foobar2000.org/files/foobar2000-x64_v2.1.3.exe
+https://www.foobar2000.org/files/foobar2000_v2.1.5.exe
+https://www.foobar2000.org/files/foobar2000-x64_v2.1.5.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.2.42_20231128.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.3.8_20221013.exe
-https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.4.4_20240125.exe
+https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.4.5_20240307.exe
 https://www.high-logic.com/FontCreatorSetup.exe
 https://www.high-logic.com/FontCreatorSetup.zip
 https://www.high-logic.com/FontCreatorSetup-x64.exe
 https://www.high-logic.com/FontCreatorSetup-x64.zip
 https://www.hyperionics.com/downloads/HS8Setup.exe
 https://www.hyperionics.com/downloads/HS8Setup32.exe
+https://www.hyperionics.com/downloads/HS9Setup.exe
+https://www.hyperionics.com/downloads/HS9Setup32.exe
 https://www.irif.fr/~jch/software/files/polipo-1.1.1-win32.zip
 https://www.jetico.com/jpf2setup.exe
 https://www.legroom.net/files/software/uniextract161_noinst.rar
