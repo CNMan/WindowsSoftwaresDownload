@@ -30,9 +30,9 @@ https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638_x64.exe
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup11.3.15.1966.exe
 https://download.aida64.com/aida64business720.zip
-https://download.emeditor.info/emed32_24.2.0_portable.zip
-https://download.emeditor.info/emed64_24.2.0_portable.zip
-https://download.emeditor.info/help/emed_help_zh-cn_24.2.0.msi
+https://download.emeditor.info/emed32_24.2.1_portable.zip
+https://download.emeditor.info/emed64_24.2.1_portable.zip
+https://download.emeditor.info/help/emed_help_zh-cn_24.2.1.msi
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
@@ -84,7 +84,7 @@ https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x86.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x86.zip
-https://github.com/rime/weasel/releases/download/0.16.0/weasel-0.16.0.0-installer.exe
+https://github.com/rime/weasel/releases/download/0.16.1/weasel-0.16.1.0-installer.exe
 https://jaist.dl.sourceforge.net/project/emule/eMule/0.50a/eMule0.50a.zip
 https://jaist.dl.sourceforge.net/project/innounp/innounp/innounp 0.50/innounp050.rar
 https://jaist.dl.sourceforge.net/project/irfanview/iview460_x64_setup.exe
@@ -129,6 +129,8 @@ https://www.editplus.com/ftp/epp570_4352.exe
 https://www.editplus.com/ftp/epp570_4352_64bit.exe
 https://www.editplus.com/ftp/epp570p4632_0507.exe
 https://www.editplus.com/ftp/epp570p4632_0507_64bit.exe
+https://www.editplus.com/ftp/epp600_0632.exe
+https://www.editplus.com/ftp/epp600_0632_64bit.exe
 https://www.emule-project.net/files/emule/eMule0.60d.zip
 https://www.faststonesoft.net/DN/FSCapture105.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
@@ -165,8 +167,8 @@ https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
 https://www.voidtools.com/Everything-1.4.1.1024.x64.zip
 https://www.voidtools.com/Everything-1.4.1.1024.x86.zip
 https://www.winitor.com/tools/pestudio/current/pestudio.zip
-https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x32-700sc.exe
-https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x64-700sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x32-701sc.exe
+https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x64-701sc.exe
 https://www.xlightftpd.com/download/xlight.zip
 https://www.xlightftpd.com/download/xlight-x64.zip
 https://www.x-ways.net/winhex.zip
