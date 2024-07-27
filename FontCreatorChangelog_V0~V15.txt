@@ -1,3 +1,37 @@
+FontCreator 15.0.0.2992 [June 28, 2024]
+    Faster font export
+    Fixed a possible freeze while saving a font project
+FontCreator 15.0.0.2989 [June 24, 2024]
+    Fixed bug that removed kern positioning after compiling fea code
+FontCreator 15.0.0.2987 [June 17, 2024]
+    Introduced splashscreen on starting FontCreator
+    Improved way of opening font files.
+    Improved join contours (union, intersection, exclusion) feature
+    Improved detection of contours with incorrect direction
+    Improved shaping engine
+    Improved export to UFO
+    Tweaks in the user manual
+FontCreator 15.0.0.2974 [April 25, 2024]
+    Fixed normalization issue within shaping engine
+    Improved Thin transform feature
+    Several user interface updating issues
+FontCreator 15.0.0.2970 [April 4, 2024]
+    New Round transform feature
+    Improved Bold transform feature
+    Improved speed while editing large fonts
+    Improved calculation of contour direction
+    Improved Find dialog
+    Updated vendor information
+    Fixed Override Ranges transform features
+    Fixed issue with exporting CFF (PostScript) fonts
+    Fixed issue with adding a master
+    Fixed multiple substitution issue
+    Fixed issue with losing glyph names on exporting a large font
+    Fixed clipboard issue
+    Fixed missing scrollbar in Class Manager dialog
+    Fixed several user interface glitches
+    Fixed overrule/add codepoints with Paste Special
+    Several minor improvements
 FontCreator 15.0.0.2955 [December 14, 2023]
     Fixed crash on closing glyph panel
     Improved Bold and Thin features in Transform wizard

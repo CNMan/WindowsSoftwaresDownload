@@ -132,7 +132,7 @@ https://www.editplus.com/ftp/epp570p4632_0507_64bit.exe
 https://www.editplus.com/ftp/epp600_0632.exe
 https://www.editplus.com/ftp/epp600_0632_64bit.exe
 https://www.emule-project.net/files/emule/eMule0.60d.zip
-https://www.faststonesoft.net/DN/FSCapture105.zip
+https://www.faststonesoft.net/DN/FSCapture106.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
 https://www.faststonesoft.net/DN/FSViewer78.zip
@@ -163,6 +163,8 @@ https://www.rlvision.com/files/OfficeImageExtractionWizard_Portable.zip
 https://www.rlvision.com/files/PdfImageExtractionWizard_Portable.zip
 https://www.scootersoftware.com/BCompare-4.4.7.28397_x64.msi
 https://www.scootersoftware.com/BCompare-4.4.7.28397_x86.msi
+https://www.scootersoftware.com/files/BCompare-4.4.7.28397.exe
+https://www.scootersoftware.com/files/BCompare-5.0.0.29773.exe
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
 https://www.voidtools.com/Everything-1.4.1.1024.x64.zip
 https://www.voidtools.com/Everything-1.4.1.1024.x86.zip
