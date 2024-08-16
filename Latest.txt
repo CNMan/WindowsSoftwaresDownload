@@ -5,7 +5,7 @@ http://reg.ezbsys.com/private/3939p575/uiso97pes.exe
 http://www.haoxg.net/download/colorpicker.zip
 http://www.haoxg.net/download/colorpickersrc.zip
 http://www.haoxg.net/download/cydict-1.0.zip
-http://www.haoxg.net/download/flashpad-1.6.3.zip
+http://www.haoxg.net/download/flashpad-1.6.4.zip
 http://www.haoxg.net/download/flashpadsrc.zip
 http://www.haoxg.net/download/iriscodecounter.zip
 http://www.haoxg.net/download/minihex-1.6.1.zip
@@ -20,25 +20,25 @@ https://dl.cmbimg.com/download/PB/PBSetup60.exe
 https://dl.cmbimg.com/download/PB/PBSetup70.exe
 https://dl.google.com/android/repository/platform-tools-latest-windows.zip
 https://dl3.xmind.net/xmind-8-update9-windows.zip
-https://dl3.xmind.net/Xmind-for-Windows-64bit-22.08.2357.exe
-https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.18/bin/apache-tomcat-10.1.18-windows-x64.zip
-https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.18/bin/apache-tomcat-10.1.18-windows-x86.zip
+https://dl3.xmind.app/Xmind-for-Windows-x64bit-24.04.10311-202405232355.exe
+https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.28/bin/apache-tomcat-10.1.28-windows-x64.zip
+https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.28/bin/apache-tomcat-10.1.28-windows-x86.zip
 https://dl-cdn.oray.com/sunlogin/windows/SunloginClient_13.2.0.55335.exe
 https://dl-cdn.oray.com/sunlogin/windows/SunloginClient_13.2.0.55335_x64.exe
 https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638.exe
 https://dl-cdn.oray.com/sunlogin/windows/SunloginRemote_5.6.3.54638_x64.exe
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup11.3.15.1966.exe
-https://download.aida64.com/aida64business720.zip
-https://download.emeditor.info/emed32_24.2.1_portable.zip
-https://download.emeditor.info/emed64_24.2.1_portable.zip
-https://download.emeditor.info/help/emed_help_zh-cn_24.2.1.msi
+https://download.aida64.com/aida64business735.zip
+https://download.emeditor.info/emed32_24.3.2_portable.zip
+https://download.emeditor.info/emed64_24.3.2_portable.zip
+https://download.emeditor.info/help/emed_help_zh-cn_24.3.2.msi
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
 https://download.sublimetext.com/Sublime Text Build 3211.zip
-https://download.sublimetext.com/sublime_text_build_4175.zip
-https://download.sublimetext.com/sublime_text_build_4175_x64.zip
+https://download.sublimetext.com/sublime_text_build_4180.zip
+https://download.sublimetext.com/sublime_text_build_4180_x64.zip
 https://download.sysinternals.com/files/SysinternalsSuite.zip
 https://download.techsmith.com/camtasiastudio/releases/camtasia.msi
 https://download.techsmith.com/snagit/releases/snagit.msi
@@ -57,8 +57,8 @@ https://ebstudio.info/download/KWICFinder/xd2tx221.zip
 https://ebstudio.info/download/KWICFinder/xd2tx221_x64.zip
 https://files2.sumatrapdfreader.org/software/sumatrapdf/rel/3.5.2/SumatraPDF-3.5.2.zip
 https://files2.sumatrapdfreader.org/software/sumatrapdf/rel/3.5.2/SumatraPDF-3.5.2-64.zip
-https://fineprint.com/release/fp1143.exe
-https://fineprint.com/release/pdf843pro.exe
+https://fineprint.com/release/fp1202.exe
+https://fineprint.com/release/pdf902pro.exe
 https://fontlab.s3.amazonaws.com/fontlab-7/7649/FontLab-7-Win64-Install-7649.exe
 https://fontlab.s3.amazonaws.com/fontlab-7/7649/FontLab-7-Win-Install-7649.exe
 https://fontlab.s3.amazonaws.com/fontlab-8/8248/FontLab-8-Win64-Install-8248.exe
@@ -67,8 +67,8 @@ https://fontlab.s3.amazonaws.com/fontlab-studio-5/5714/FLS522WinFull-5714.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win64-Install-7044.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win-Install-7044.exe
 https://get.flashfxp.com/ftp/client/download/FlashFXP54_3970_Portable.exe
-https://get.videolan.org/vlc/3.0.20/win32/vlc-3.0.20-win32.zip
-https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.zip
+https://get.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.zip
+https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip
 https://gitee.com/devcpp/cterm/attach_files/708293/download/CTerm-3.6.6.rar
 https://github.com/activescott/lessmsi/releases/download/v1.10.0/lessmsi-v1.10.0.zip
 https://github.com/Aleksoid1978/MPC-BE/releases/download/1.7.1/MPC-BE.1.7.1.x64.7z
@@ -155,16 +155,16 @@ https://www.legroom.net/files/software/uniextract161_noinst.rar
 https://www.listary.com/download/Listary.exe
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win32.7z
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win64.7z
-https://www.python.org/ftp/python/3.12.2/python-3.12.2.exe
-https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe
-https://www.python.org/ftp/python/3.12.2/python-3.12.2-embed-amd64.zip
-https://www.python.org/ftp/python/3.12.2/python-3.12.2-embed-win32.zip
+https://www.python.org/ftp/python/3.12.5/python-3.12.5.exe
+https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe
+https://www.python.org/ftp/python/3.12.5/python-3.12.5-embed-amd64.zip
+https://www.python.org/ftp/python/3.12.5/python-3.12.5-embed-win32.zip
 https://www.rlvision.com/files/OfficeImageExtractionWizard_Portable.zip
 https://www.rlvision.com/files/PdfImageExtractionWizard_Portable.zip
 https://www.scootersoftware.com/BCompare-4.4.7.28397_x64.msi
 https://www.scootersoftware.com/BCompare-4.4.7.28397_x86.msi
 https://www.scootersoftware.com/files/BCompare-4.4.7.28397.exe
-https://www.scootersoftware.com/files/BCompare-5.0.0.29773.exe
+https://www.scootersoftware.com/files/BCompare-5.0.1.29877.exe
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
 https://www.voidtools.com/Everything-1.4.1.1024.x64.zip
 https://www.voidtools.com/Everything-1.4.1.1024.x86.zip
