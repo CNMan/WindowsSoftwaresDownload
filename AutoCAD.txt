@@ -17,3 +17,16 @@ https://efulfillment.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4
 AutoCAD Architecture 2024
 https://efulfillment.autodesk.com/NetSWDLD/2024/ARCHDESK/34CF1C46-7E0E-3EA9-B442-EE0DE839612A/SFX/AutoCAD_Architecture_2024_Chinese_Simplified_Win_64bit_dlm_001_002.sfx.exe
 https://efulfillment.autodesk.com/NetSWDLD/2024/ARCHDESK/34CF1C46-7E0E-3EA9-B442-EE0DE839612A/SFX/AutoCAD_Architecture_2024_Chinese_Simplified_Win_64bit_dlm_002_002.sfx.exe
+
+AutoCAD 2025
+https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/7B66591E-A260-34D2-B2AD-8FDC4EA76CE8/SFX/AutoCAD_2025_Simplified_Chinese_Win_64bit_db_001_002.exe
+https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/7B66591E-A260-34D2-B2AD-8FDC4EA76CE8/SFX/AutoCAD_2025_Simplified_Chinese_Win_64bit_db_002_002.7z
+
+
+AutoCAD Architecture 2025
+https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/ARCHDESK/E240E7AB-5D27-3D14-9F3D-6C656A0E2C35/SFX/AutoCAD_Architecture_2025_Chinese_Simplified_Win_64bit_dlm_001_002.exe
+https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/ARCHDESK/E240E7AB-5D27-3D14-9F3D-6C656A0E2C35/SFX/AutoCAD_Architecture_2025_Chinese_Simplified_Win_64bit_dlm_002_002.7z
+
+AutoCAD 2026
+https://dds.autodesk.com/NetSWDLD/ODIS/prd/2026/ACD/9165B4AF-8BF4-37D6-882D-694B73603AED/SFX/ACD_2026_simplified_chinese_win_db_001_002.exe
+https://dds.autodesk.com/NetSWDLD/ODIS/prd/2026/ACD/9165B4AF-8BF4-37D6-882D-694B73603AED/SFX/ACD_2026_simplified_chinese_win_db_002_002.7z
