@@ -2,6 +2,11 @@ https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.1.0.474/english-
 https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.1.0.474/english-4.1.0.474/3530393035307c44454c7c31/kuu4.1.0.474_i686-linux_en.tar.gz
 https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.1.0.474/english-4.1.0.474/3530393035317c44454c7c31/kuu4.1.0.474_x86_64_en.tar.gz
 
+https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.2.0.1432/english-4.2.0.1432/313030303333367c44454c7c31/kuu4.2.0.1432_aarch64_en.tar.gz
+https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.2.0.1432/english-4.2.0.1432/313030303334307c44454c7c31/kuu4.2.0.1432_en.zip
+https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.2.0.1432/english-4.2.0.1432/313030303334317c44454c7c31/kuu4.2.0.1432_i686-linux_en.tar.gz
+https://products.s.kaspersky-labs.com/special/kasp_updater3.0/4.2.0.1432/english-4.2.0.1432/313030303334327c44454c7c31/kuu4.2.0.1432_x86_64_en.tar.gz
+
 http://aes.kaspersky-labs.com/chinese_simplified/endpoints/kes10windows/kes10winsp1_mr4_zh-hans_aes56.exe
 http://aes.kaspersky-labs.com/chinese_simplified/endpoints/kes10windows/kes10winsp1_mr4_zh-hans_aes256.exe
 http://aes.kaspersky-labs.com/english/endpoints/kes10windows/kes10winsp1_mr4_en_aes56.exe
