@@ -78,6 +78,8 @@ https://download.eset.com/com/eset/apps/business/eea/windows/v10/latest/eea_nt32
 https://download.eset.com/com/eset/apps/business/eea/windows/v10/latest/eea_nt64.msi
 https://download.eset.com/com/eset/apps/business/eea/windows/v11/latest/eea_nt32.msi
 https://download.eset.com/com/eset/apps/business/eea/windows/v11/latest/eea_nt64.msi
+https://download.eset.com/com/eset/apps/business/eea/windows/v12/latest/eea_nt32.msi
+https://download.eset.com/com/eset/apps/business/eea/windows/v12/latest/eea_nt64.msi
 https://download.eset.com/com/eset/apps/business/ees/windows/v7/latest/ees_nt32.msi
 https://download.eset.com/com/eset/apps/business/ees/windows/v7/latest/ees_nt64.msi
 https://download.eset.com/com/eset/apps/business/ees/windows/v8/latest/ees_nt32.msi
@@ -88,6 +90,8 @@ https://download.eset.com/com/eset/apps/business/ees/windows/v10/latest/ees_nt32
 https://download.eset.com/com/eset/apps/business/ees/windows/v10/latest/ees_nt64.msi
 https://download.eset.com/com/eset/apps/business/ees/windows/v11/latest/ees_nt32.msi
 https://download.eset.com/com/eset/apps/business/ees/windows/v11/latest/ees_nt64.msi
+https://download.eset.com/com/eset/apps/business/ees/windows/v12/latest/ees_nt32.msi
+https://download.eset.com/com/eset/apps/business/ees/windows/v12/latest/ees_nt64.msi
 
 https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt32.msi
 https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi
@@ -105,5 +109,6 @@ https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0
 https://download.eset.com/com/eset/apps/business/efs/windows/v9/latest/efsw_nt64.msi
 https://download.eset.com/com/eset/apps/business/efs/windows/v10/latest/efsw_nt64.msi
 https://download.eset.com/com/eset/apps/business/efs/windows/v11/latest/efsw_nt64.msi
+https://download.eset.com/com/eset/apps/business/efs/windows/v12/latest/efsw_nt64.msi
 
 https://download.eset.com/com/eset/apps/business/efs/windows/latest/efsw_nt64.msi
