@@ -5,6 +5,8 @@ https://dl.bitvise.com/BvSshServer-Inst.exe
 https://dl.cmbimg.com/download/PB/PBSetup60.exe
 https://dl.cmbimg.com/download/PB/PBSetup70.exe
 https://dl.google.com/android/repository/platform-tools-latest-windows.zip
+https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise.msi
+https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
 https://dl.oray.com/sunlogin/windows/SunloginClient_15.8.3.19819.exe
 https://dl.oray.com/sunlogin/windows/SunloginClient_15.8.3.19819_x64.exe
 https://dl.oray.com/sunlogin/windows/SunloginEnterprise_5.4.3.18234.exe
@@ -17,20 +19,23 @@ https://dl3.xmind.app/Xmind-for-Windows-x64bit-25.01.01061-202501070746.exe
 https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.41/bin/apache-tomcat-10.1.41-windows-x64.zip
 https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.41/bin/apache-tomcat-10.1.41-windows-x86.zip
 https://dlcdn.apache.org/tomcat/tomcat-11/v11.0.6/bin/apache-tomcat-11.0.6-windows-x64.zip
-https://down.haoxg.net/download/ediary/windows/ediary-4.3.6-win32-portable.zip
-https://down.haoxg.net/download/ediary/windows/ediary-4.3.6-win64-portable.zip
+https://down.haoxg.net/download/ediary/windows/ediary-4.3.7-win32-portable.zip
+https://down.haoxg.net/download/ediary/windows/ediary-4.3.7-win64-portable.zip
 https://down.sandai.net/mini/Minithunder_dl1.5.3.288.exe
 https://down.sandai.net/thunder11/XunLeiSetup12.1.6.2780.exe
 https://download.aida64.com/aida64business765.zip
-https://download.emeditor.info/emed32_25.0.1_portable.zip
-https://download.emeditor.info/emed64_25.0.1_portable.zip
-https://download.emeditor.info/help/emed_help_zh-cn_25.0.1.msi
+https://download.emeditor.info/emed32_25.1.3_portable.zip
+https://download.emeditor.info/emed64_25.1.3_portable.zip
+https://download.emeditor.info/help/emed_help_zh-cn_25.1.3.msi
+https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe
+https://download.imgburn.com/translations/chinese_prc.zip
+https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
 https://download.sublimetext.com/Sublime Text Build 3211.zip
-https://download.sublimetext.com/sublime_text_build_4192.zip
-https://download.sublimetext.com/sublime_text_build_4192_x64.zip
+https://download.sublimetext.com/sublime_text_build_4200.zip
+https://download.sublimetext.com/sublime_text_build_4200_x64.zip
 https://download.sysinternals.com/files/SysinternalsSuite.zip
 https://download.techsmith.com/camtasiastudio/releases/camtasia.msi
 https://download.techsmith.com/snagit/releases/snagit.msi
@@ -58,6 +63,10 @@ https://fontlab.s3.amazonaws.com/fontlab-8/8984/FontLab-8-Win-Install-8984.exe
 https://fontlab.s3.amazonaws.com/fontlab-studio-5/5714/FLS522WinFull-5714.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win64-Install-7044.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win-Install-7044.exe
+https://ftp.mozilla.org/pub/firefox/releases/139.0.4/win32/en-US/Firefox Setup 139.0.4.exe
+https://ftp.mozilla.org/pub/firefox/releases/139.0.4/win64/en-US/Firefox Setup 139.0.4.exe
+https://ftp.mozilla.org/pub/thunderbird/releases/139.0.2/win32/en-US/Thunderbird Setup 139.0.2.exe
+https://ftp.mozilla.org/pub/thunderbird/releases/139.0.2/win64/en-US/Thunderbird Setup 139.0.2.exe
 https://get.flashfxp.com/ftp/client/download/FlashFXP54_3970_Portable.exe
 https://get.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.zip
 https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip
@@ -67,8 +76,8 @@ https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.4/MPC-BE.1.8.4.x64.
 https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.4/MPC-BE.1.8.4.x86.7z
 https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.4/standalone_filters-mpc-be.1.8.4.x64.7z
 https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.4/standalone_filters-mpc-be.1.8.4.x86.7z
-https://github.com/clsid2/mpc-hc/releases/download/2.4.2/MPC-HC.2.4.2.x64.zip
-https://github.com/clsid2/mpc-hc/releases/download/2.4.2/MPC-HC.2.4.2.x86.zip
+https://github.com/clsid2/mpc-hc/releases/download/2.4.3/MPC-HC.2.4.3.x64.zip
+https://github.com/clsid2/mpc-hc/releases/download/2.4.3/MPC-HC.2.4.3.x86.zip
 https://github.com/git-for-windows/git/releases/download/v2.48.1.windows.1/PortableGit-2.48.1-32-bit.7z.exe
 https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/PortableGit-2.49.0-64-bit.7z.exe
 https://github.com/irwir/eMule/releases/download/eMule_v0.70b-community/eMule0.70b.zip
@@ -77,8 +86,14 @@ https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x86.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x86.zip
-https://github.com/rime/weasel/releases/download/0.16.3/weasel-0.16.3.0-installer.exe
+https://github.com/rime/weasel/releases/download/0.17.4/weasel-0.17.4.0-installer.exe
+https://github.com/telegramdesktop/tdesktop/releases/download/v5.15.3/tportable.5.15.3.zip
+https://github.com/telegramdesktop/tdesktop/releases/download/v5.15.3/tportable-x64.5.15.3.zip
+https://github.com/vim/vim-win32-installer/releases/download/v9.1.0/gvim_9.1.0_x64_signed.zip
+https://github.com/vim/vim-win32-installer/releases/download/v9.1.0/gvim_9.1.0_x86_signed.zip
+https://github.com/wmjordan/PDFPatcher/releases/download/v1.1/PDFPatcher.1.1.0.4632.7z
 https://jaist.dl.sourceforge.net/project/emule/eMule/0.50a/eMule0.50a.zip
+https://jaist.dl.sourceforge.net/project/hwinfo/Windows_Portable/hwi_826.zip
 https://jaist.dl.sourceforge.net/project/innounp/innounp/innounp 0.50/innounp050.rar
 https://jaist.dl.sourceforge.net/project/irfanview/iview460_x64_setup.exe
 https://jaist.dl.sourceforge.net/project/irfanview/iview462_setup.exe
@@ -86,9 +101,11 @@ https://jaist.dl.sourceforge.net/project/keepass/KeePass 2.x/2.58/KeePass-2.58.z
 https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.58/KeePass-2.58-Chinese_Simplified.zip
 https://jaist.dl.sourceforge.net/project/keepass/Translations 2.x/2.58/KeePass-2.58-Chinese_Traditional.zip
 https://jaist.dl.sourceforge.net/project/mplayerwin/MPlayer-MEncoder/r38151/mplayer-svn-38151.7z
+https://jaist.dl.sourceforge.net/project/mplayer-win32/MPlayer and MEncoder/r38677+g1bce40cb73/MPlayer-x86_64-r38677+g1bce40cb73.7z
 https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.15/binaries/zh-CN/Apache_OpenOffice_4.1.15_Win_x86_install_zh-CN.exe
 https://jaist.dl.sourceforge.net/project/openofficeorg.mirror/4.1.15/binaries/zh-CN/Apache_OpenOffice_4.1.15_Win_x86_langpack_zh-CN.exe
 https://jaist.dl.sourceforge.net/project/ventoy/v1.1.05/ventoy-1.1.05-windows.zip
+https://madshi.net/madVR.zip
 https://nlnetlabs.nl/downloads/unbound/unbound-1.23.0.zip
 https://nlnetlabs.nl/downloads/unbound/unbound-1.23.0-w32.zip
 https://raw.githubusercontent.com/nyam1003/imagine/main/Imagine_1.9.0_Unicode_Full.zip
@@ -109,6 +126,10 @@ https://www.7-zip.org/a/7z2409-x64.exe
 https://www.autohotkey.com/download/ahk.zip
 https://www.autohotkey.com/download/ahk-v2.zip
 https://www.autoitscript.com/files/autoit3/autoit-v3.zip
+https://www.babelstone.co.uk/Fonts/Download/BabelStoneHan.ttf
+https://www.babelstone.co.uk/Fonts/Download/BabelStoneHanPUA.ttf
+https://www.babelstone.co.uk/Software/Download/BabelMap.zip
+https://www.babelstone.co.uk/Software/Download/BabelPad.zip
 https://www.binisoft.org/download/wfc6setup.exe
 https://www.digicert.com/StaticFiles/DigiCertUtil.zip
 https://www.editplus.com/ftp/epp430.exe
@@ -125,14 +146,15 @@ https://www.editplus.com/ftp/epp570p4632_0507.exe
 https://www.editplus.com/ftp/epp570p4632_0507_64bit.exe
 https://www.editplus.com/ftp/epp600_0632.exe
 https://www.editplus.com/ftp/epp600_0632_64bit.exe
-https://www.editplus.com/ftp/epp600p0700_0314.exe
-https://www.editplus.com/ftp/epp600p0700_0314_64bit.exe
+https://www.editplus.com/ftp/epp600p0731_0525.exe
+https://www.editplus.com/ftp/epp600p0731_0525_64bit.exe
+https://www.exactaudiocopy.de/eac-1.8.exe
 https://www.faststonesoft.net/DN/FSCapture110.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
 https://www.faststonesoft.net/DN/FSViewer80.zip
-https://www.foobar2000.org/files/foobar2000_v2.24.4.exe
-https://www.foobar2000.org/files/foobar2000-x64_v2.24.4.exe
+https://www.foobar2000.org/files/foobar2000_v2.24.5.exe
+https://www.foobar2000.org/files/foobar2000-x64_v2.24.5.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.2.45_20241022.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.3.8_20221013.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.4.5_20240307.exe
@@ -151,19 +173,20 @@ https://www.legroom.net/files/software/uniextract161_noinst.rar
 https://www.listary.com/download/Listary.exe
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win32.7z
 https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win64.7z
-https://www.python.org/ftp/python/3.13.3/python-3.13.3.exe
-https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe
-https://www.python.org/ftp/python/3.13.3/python-3.13.3-embed-amd64.zip
-https://www.python.org/ftp/python/3.13.3/python-3.13.3-embed-win32.zip
+https://www.python.org/ftp/python/3.13.5/python-3.13.5.exe
+https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe
+https://www.python.org/ftp/python/3.13.5/python-3.13.5-embed-amd64.zip
+https://www.python.org/ftp/python/3.13.5/python-3.13.5-embed-win32.zip
 https://www.rlvision.com/files/OfficeImageExtractionWizard_Portable.zip
 https://www.rlvision.com/files/PdfImageExtractionWizard_Portable.zip
 https://www.scootersoftware.com/BCompare-4.4.7.28397_x64.msi
 https://www.scootersoftware.com/BCompare-4.4.7.28397_x86.msi
-https://www.scootersoftware.com/BCompare-5.0.7.30840.exe
+https://www.scootersoftware.com/BCompare-5.1.0.31016.exe
 https://www.scootersoftware.com/files/BCompare-4.4.7.28397.exe
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
-https://www.voidtools.com/Everything-1.4.1.1026.x64.zip
-https://www.voidtools.com/Everything-1.4.1.1026.x86.zip
+https://www.solutionsam.com/solutions/8_8/symantec_deploymentsolution_8_8_x64.msi
+https://www.voidtools.com/Everything-1.4.1.1027.x64.zip
+https://www.voidtools.com/Everything-1.4.1.1027.x86.zip
 https://www.winitor.com/tools/pestudio/current/pestudio.zip
 https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x32-701sc.exe
 https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20253103/wrr/winrar-x64-711sc.exe
