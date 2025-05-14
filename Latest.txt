@@ -5,6 +5,8 @@ https://dl.bitvise.com/BvSshServer-Inst.exe
 https://dl.cmbimg.com/download/PB/PBSetup60.exe
 https://dl.cmbimg.com/download/PB/PBSetup70.exe
 https://dl.google.com/android/repository/platform-tools-latest-windows.zip
+https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise.msi
+https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
 https://dl.oray.com/sunlogin/windows/SunloginClient_15.8.3.19819.exe
 https://dl.oray.com/sunlogin/windows/SunloginClient_15.8.3.19819_x64.exe
 https://dl.oray.com/sunlogin/windows/SunloginEnterprise_5.4.3.18234.exe
@@ -25,6 +27,9 @@ https://download.aida64.com/aida64business765.zip
 https://download.emeditor.info/emed32_25.0.1_portable.zip
 https://download.emeditor.info/emed64_25.0.1_portable.zip
 https://download.emeditor.info/help/emed_help_zh-cn_25.0.1.msi
+https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe
+https://download.imgburn.com/translations/chinese_prc.zip
+https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2 x64.zip
 https://download.sublimetext.com/Sublime Text 2.0.2.zip
 https://download.sublimetext.com/Sublime Text Build 3211 x64.zip
@@ -58,6 +63,10 @@ https://fontlab.s3.amazonaws.com/fontlab-8/8984/FontLab-8-Win-Install-8984.exe
 https://fontlab.s3.amazonaws.com/fontlab-studio-5/5714/FLS522WinFull-5714.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win64-Install-7044.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win-Install-7044.exe
+https://ftp.mozilla.org/pub/firefox/releases/138.0.3/win32/en-US/Firefox Setup 138.0.3.exe
+https://ftp.mozilla.org/pub/firefox/releases/138.0.3/win64/en-US/Firefox Setup 138.0.3.exe
+https://ftp.mozilla.org/pub/thunderbird/releases/138.0/win32/en-US/Thunderbird Setup 138.0.exe
+https://ftp.mozilla.org/pub/thunderbird/releases/138.0/win64/en-US/Thunderbird Setup 138.0.exe
 https://get.flashfxp.com/ftp/client/download/FlashFXP54_3970_Portable.exe
 https://get.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.zip
 https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip
@@ -78,6 +87,8 @@ https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x86.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x86.zip
 https://github.com/rime/weasel/releases/download/0.16.3/weasel-0.16.3.0-installer.exe
+https://github.com/vim/vim-win32-installer/releases/download/v9.1.0/gvim_9.1.0_x64_signed.zip
+https://github.com/vim/vim-win32-installer/releases/download/v9.1.0/gvim_9.1.0_x86_signed.zip
 https://jaist.dl.sourceforge.net/project/emule/eMule/0.50a/eMule0.50a.zip
 https://jaist.dl.sourceforge.net/project/innounp/innounp/innounp 0.50/innounp050.rar
 https://jaist.dl.sourceforge.net/project/irfanview/iview460_x64_setup.exe
@@ -109,6 +120,10 @@ https://www.7-zip.org/a/7z2409-x64.exe
 https://www.autohotkey.com/download/ahk.zip
 https://www.autohotkey.com/download/ahk-v2.zip
 https://www.autoitscript.com/files/autoit3/autoit-v3.zip
+https://www.babelstone.co.uk/Fonts/Download/BabelStoneHan.ttf
+https://www.babelstone.co.uk/Fonts/Download/BabelStoneHanPUA.ttf
+https://www.babelstone.co.uk/Software/Download/BabelMap.zip
+https://www.babelstone.co.uk/Software/Download/BabelPad.zip
 https://www.binisoft.org/download/wfc6setup.exe
 https://www.digicert.com/StaticFiles/DigiCertUtil.zip
 https://www.editplus.com/ftp/epp430.exe
@@ -127,6 +142,7 @@ https://www.editplus.com/ftp/epp600_0632.exe
 https://www.editplus.com/ftp/epp600_0632_64bit.exe
 https://www.editplus.com/ftp/epp600p0700_0314.exe
 https://www.editplus.com/ftp/epp600p0700_0314_64bit.exe
+https://www.exactaudiocopy.de/eac-1.8.exe
 https://www.faststonesoft.net/DN/FSCapture110.zip
 https://www.faststonesoft.net/DN/FSMaxView34.zip
 https://www.faststonesoft.net/DN/FSResizer44.zip
