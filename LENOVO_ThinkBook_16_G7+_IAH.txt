@@ -1,0 +1,74 @@
+Intel® Core™ Ultra 9 Processor 285H
+24M Cache, up to 5.40 GHz
+
+https://www.intel.com/content/www/us/en/products/sku/241747/intel-core-ultra-9-processor-285h-24m-cache-up-to-5-40-ghz/downloads.html
+
+Intel® Arc™ & Iris® Xe Graphics - Windows*
+https://downloadmirror.intel.com/855955/gfx_win_101.6874.exe
+https://downloadmirror.intel.com/855955/readme.txt
+https://downloadmirror.intel.com/855955/ReleaseNotes_101.6874.pdf
+
+Intel® Graphics - Preview Features - Windows*
+https://downloadmirror.intel.com/855958/gfx_win_101.6854.exe
+https://downloadmirror.intel.com/855958/readme.txt
+https://downloadmirror.intel.com/855958/ReleaseNotes__101.6854.pdf
+
+Intel® NPU Driver - Windows*
+https://downloadmirror.intel.com/854488/npu_win_32.0.100.4023.sig
+https://downloadmirror.intel.com/854488/npu_win_32.0.100.4023.spdx.json
+https://downloadmirror.intel.com/854488/npu_win_32.0.100.4023.zip
+https://downloadmirror.intel.com/854488/NPU_Win_Release_Notes_v32.0.100.4023.pdf
+https://downloadmirror.intel.com/854488/SBOM_TandC_4.18.2023.pdf
+
+Intel® Processor Identification Utility - Windows* Version
+https://downloadmirror.intel.com/844434/Intel_Processor_Identification_Utility_v8.0.43.exe
+https://downloadmirror.intel.com/844434/release_notes_v8.0.43.html
+
+Intel® PPM Provisioning Package Driver
+https://downloadmirror.intel.com/842297/PPMDRV-1.0.00000.47.sig
+https://downloadmirror.intel.com/842297/PPMDRV-1.0.00000.47.spdx.json
+https://downloadmirror.intel.com/842297/PPMDRV-1.0.00000.47.zip
+https://downloadmirror.intel.com/842297/RN-PPMDRV-1.0.00000.47.pdf
+https://downloadmirror.intel.com/842297/SBOM_TandC_4.18.2023.pdf
+
+Intel® Processor Diagnostic Tool
+https://downloadmirror.intel.com/19792/IntelProcessorDiagnosticToolHelp.pdf
+https://downloadmirror.intel.com/19792/IPDT_4.1.9.41_src.zip
+https://downloadmirror.intel.com/19792/IPDT_Installer_4.1.9.41_32bit.msi
+https://downloadmirror.intel.com/19792/IPDT_Installer_4.1.9.41_64bit.msi
+https://downloadmirror.intel.com/19792/Read_Me_First-Win32bit.txt
+https://downloadmirror.intel.com/19792/Read_Me_First-Win64bit.txt
+https://downloadmirror.intel.com/19792/The_Intel_Processor_Diagnostic_4.1.9.41.W.MP_for_Windows_64_Bit_OS_Release_Notes.pdf
+https://downloadmirror.intel.com/19792/The_Intel_Processor_Diagnostic_4.1.9.41.W_for_Windows_32_Bit_OS_Release_Notes.pdf
+
+Intel® Ethernet Connection I219-V
+
+https://www.intel.com/content/www/us/en/products/sku/82186/intel-ethernet-connection-i219v/downloads.html
+
+Intel® Ethernet Adapter Complete Driver Pack
+https://downloadmirror.intel.com/856143/readme.txt
+https://downloadmirror.intel.com/856143/Release_30.1.0.1.zip
+https://downloadmirror.intel.com/856143/Release_Notes.pdf
+
+https://www.intel.com/content/www/us/en/products/sku/230079/intel-wifi-7-be201/downloads.html
+
+Intel® Wi-Fi 7 BE201
+
+Intel® Wireless Bluetooth® Drivers for IT Administrators
+https://downloadmirror.intel.com/853222/BT-23.130.0-64UWD-Win10-Win11.zip
+https://downloadmirror.intel.com/853222/ReleaseNotes_BT_23.130.0_IT.pdf
+
+Intel® PROSet/Wireless Software and Wi-Fi Drivers for IT Administrators
+https://downloadmirror.intel.com/853378/ReleaseNotes_WiFi_23.130.1_IT.pdf
+https://downloadmirror.intel.com/853378/WiFi-23.130.1-Driver64-Win10-Win11.zip
+
+Intel® Wireless Bluetooth® Drivers for Windows® 10 and Windows 11*
+https://downloadmirror.intel.com/853221/BT-23.130.0-64UWD-Win10-Win11.exe
+https://downloadmirror.intel.com/853221/ReleaseNotes_BT_23.130.0.pdf
+
+Intel® Wireless Wi-Fi Drivers for Windows® 10 and Windows 11*
+https://downloadmirror.intel.com/853377/ReleaseNotes_WiFi_23.130.1.pdf
+https://downloadmirror.intel.com/853377/WiFi-23.130.1-Driver64-Win10-Win11.exe
+
+Intel® Wireless Wi-Fi Drivers for Linux*
+https://downloadmirror.intel.com/850931/ReleaseNotes_WiFi_LinuxCore93.pdf
