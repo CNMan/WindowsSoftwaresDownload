@@ -6,3 +6,12 @@ http://update.cyberlink.com/License/PowerDVD/OVS88GJEFK5EBS/PowerDVD_21.0.1817.6
 
 PowerDVD Ultra 22.0 VL
 https://update.cyberlink.com/License/PowerDVD/W03GCY6UID5I91/PowerDVD_22.0.1915.62_DVD220704-02.exe
+
+https://update.cyberlink.com/Retail/PowerDVD/0X3O7GM6AZB/PowerDVD_23.0.2704.62_GM5_Ultra_DVD250214-01.exe
+
+https://update.cyberlink.com/Retail/PowerDVD/67IO4AVDXVDM/PowerDVD_24.0.0716.62_GM11_Ultra_DVD250711-01.exe
+
+https://update.cyberlink.com/Retail/PowerDVD/XTJ91EILKOK/PowerDVD_24.0.1105.62_02_Ultra_DVD250827-01.exe
+
+HEVC Codecs
+https://update.cyberlink.com/Module/Codec/HEVC/103234/k1h8KLZjI3Ezn8TRv1864nv4P5aOC0.zip

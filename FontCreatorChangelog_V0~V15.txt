@@ -1,3 +1,91 @@
+FontCreator 15.0.0.3039 [December 10, 2025]
+    New: Export Glyph Properties
+    Fixed: Opening CFF2 based fonts did not set the glyph names
+    Improved exporting PostScript CFF OpenType fonts
+    Improved clipboard support between other vector editing software, like Adobe Illustrator
+    macOS only: lock guidelines
+    macOS only: show first and last point indicators
+    macOS only: fixed several bugs related to editing anchor
+    macOS only: Improved layout of OpenType Designer
+    Numerous other improvements and bug fixes
+FontCreator 15.0.0.3024 [June 30, 2025]
+    Fixed issue with setting maximum and minimum values for the range of axis values
+    Improved generation of OpenType layout features
+    Improved localization
+    Changed trial period — now 7 days instead of 30
+    macOS only: Added View Guidelines and Lock Guidelines settings
+    macOS only: Improved Add Anchor dialog
+    Minor other improvements
+FontCreator 15.0.0.3022 [May 29, 2025]
+    Fixed incorrect glyph reordering during the normalization process
+    Fixed an issue with copying and pasting glyphs
+    Improved generation of OpenType layout features
+    Improved optimization of contours with cubic curves
+    Resolved a rare buffer overflow issue
+    Windows only: Fixed an issue when editing guidelines
+    Windows only: Added Czech and Japanese localization
+    macOS only: Added Guidelines Settings
+    macOS only: Fixed an issue where some font export options were ignored
+    macOS only: Enabled deleting selected glyphs using the backspace key
+    macOS only: Disable Auto Attach did keep it attached
+    macOS only: Fixed an issue where the last change in Glyph Transformer wasn't always applied
+FontCreator 15.0.0.3017 [March 25, 2025]
+    Win only: Added localization for Czech and Japanese
+    Win only: Bug fix related to Filtering glyph classes
+    Fixed a bug that causes file corruption when you undo a paste glyphs into new cells operation
+    Improved cubic to quadratic bezier curves conversion
+    Fixed shaping issue related to non-joining characters
+    Improved shaping engine order of processing features and lookups
+    Improved glyph name generation
+    Improved copy and paste glyphs between fonts with different units per em
+FontCreator 15.0.0.3015 [February 3, 2025]
+    Improved localization
+    Mac only: Added support for editing of multiple glyph names (free text and find and replace)
+    Mac only: Added Insert By Unicode into Insert Glyphs window
+FontCreator 15.0.0.3014 [December 18, 2024]
+    Improved localization
+    Added UI support for Polish and Portuguese
+    Improved exporting fonts
+FontCreator 15.0.0.3013 [December 10, 2024]
+    Improved localization
+    Added UI support for Arabic, Spanish, Hebrew, Indonesian, and Taiwanese
+    Improved generation of OpenType layout features
+    Fixed issues related to compiling fea code
+    Improved remove overlap
+    Added Add Overlap
+    Added round() function to metrics expressions
+FontCreator 15.0.0.3011 [November 18, 2024]
+    Improved localization
+    Improved generation of OpenType layout features
+    Fixed Palette panel display issue
+    Fixed issue with opening specific color fonts
+    Fixed issue with exporting Unicode Variation Sequences to UFO source file
+FontCreator 15.0.0.3009 [October 31, 2024]
+    Added vertical writing mode in preview window
+    Added vertical writing mode in Test Web Font
+    FontCreator for Windows now also runs on ARM
+    Fixed glitch related to glyph overview
+FontCreator 15.0.0.3008 [October 25, 2024]
+    Unless noted otherwise, all updates are both Windows and Mac
+    Full support of the upcoming official Additions for Variable Values. Due to this, FontCreator no longer supports the unofficial Variable FEA Syntax, except for the Feature Variations part as this official Adobe fea syntax is not available to the public yet.
+    Added support for loading CFF2 based fonts
+    Fixed issue related to Insert Characters
+FontCreator 15.0.0.3006 [October 14, 2024]
+    Updated releases for both Windows and Mac
+    Introduced additional user interface languages in the Windows version
+    Implemented several minor enhancements
+FontCreator 15.0.0.3004 [October 7, 2024]
+    Updated releases for both Windows and Mac
+    Introduced additional user interface languages in the Windows version
+    Implemented several minor enhancements
+FontCreator 15.0.0.3003 [September 27, 2024]
+    Updated both Windows and Mac releases
+    Several minor improvements
+FontCreator 15.0.0.3000 [September 5, 2024]
+    First Mac release
+    Some features are currently missing, but will be added in the coming months; see Comparison Chart
+FontCreator 15.0.0.2999 [August 8, 2024]
+    Several improvements
 FontCreator 15.0.0.2992 [June 28, 2024]
     Faster font export
     Fixed a possible freeze while saving a font project

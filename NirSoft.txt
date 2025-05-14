@@ -1,4 +1,4 @@
-wget --header="Host: download.nirsoft.net" --header="User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0" --header="Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" --header="Accept-Language: en-US,en;q=0.5" --header="Referer: http://launcher.nirsoft.net/downloads/index.html" --header="Connection: keep-alive" --header="Upgrade-Insecure-Requests: 1" http://download.nirsoft.net/nirsoft_package_enc_1.30.11.zip
+wget --header="Host: download.nirsoft.net" --header="User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0" --header="Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" --header="Accept-Language: en-US,en;q=0.5" --header="Referer: https://launcher.nirsoft.net/downloads/index.html" --header="Connection: keep-alive" --header="Upgrade-Insecure-Requests: 1" https://download.nirsoft.net/nirsoft_package_enc_1.30.21.zip
 
 rd /s /q e:\VMware\nirsoft\
-7z x nirsoft_package_enc_1.30.11.zip -pnirsoft9876$ -oe:\VMware\nirsoft\
+7z x nirsoft_package_enc_1.30.21.zip -pnirsoft9876$ -oe:\VMware\nirsoft\

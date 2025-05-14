@@ -13,14 +13,26 @@ https://dl.google.com/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/
 https://dl.google.com/release2/chrome/ggsdppo5kshsyqe3fej7lv4tau_109.0.5414.165/109.0.5414.165_chrome_installer.exe
 https://dl.google.com/release2/chrome/nvwf3mhcdg76ot6qwp75ovmh2u_109.0.5414.168/109.0.5414.168_chrome_installer.exe
 
-https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a37eade6-cd7b-42ab-94d0-307b9e6ec4c0/MicrosoftEdgeEnterpriseX64.msi
-https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc4f8255-2ad7-4ab0-a32e-189a2141eec7/MicrosoftEdgeEnterpriseX86.msi
-
+Build 109.0.1518.140
 https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2023/09/microsoftedgeenterprisex64_1f83a194c1919bb272a7ab8b3c0ad7d8d401ae86.cab
 https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2023/09/microsoftedgeenterprisex86_860e34f30e167735cb30898672cfaa13ab5400a7.cab
 
+Build 109.0.1518.115
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/microsoftedgeenterprisex64_72369b44d111c9184b96905f250e50b823fdf2f5.cab
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/microsoftedgeenterprisex86_fc8c3a2783d3bd26d45c69da58459a245b2b8c75.cab
+
 https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/microsoftedgestandaloneinstallerx64_e1a29a123312d5a4406dfefa38a8015f0ce00108.exe
 https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/microsoftedgestandaloneinstallerx86_7f2264b41f17e15856f6519a5695cda0bea12770.exe
+
+Build 109.0.1518.78
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/02/microsoftedgeenterprisex64_e93a1744205e8b78ff3424eff1593f1f9ca5f47e.cab
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2023/02/microsoftedgeenterprisex86_37ed26b8aba1442dd03715c0b2df944662800281.cab
+
+https://ftp.mozilla.org/pub/firefox/releases/115.24.0esr/win32/en-US/Firefox Setup 115.24.0esr.exe
+https://ftp.mozilla.org/pub/firefox/releases/115.24.0esr/win64/en-US/Firefox Setup 115.24.0esr.exe
+
+https://ftp.mozilla.org/pub/thunderbird/releases/115.16.0esr/win32/en-US/Thunderbird Setup 115.16.0esr.exe
+https://ftp.mozilla.org/pub/thunderbird/releases/115.16.0esr/win64/en-US/Thunderbird Setup 115.16.0esr.exe
 
 https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe
 https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
@@ -32,3 +44,10 @@ https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installe
 
 https://www.hyperionics.com/downloads/hs819/HS8Setup.exe
 https://www.hyperionics.com/downloads/hs819/HS8Setup32.exe
+
+https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.5/dnscrypt-proxy-win32-2.1.5.zip
+https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.5/dnscrypt-proxy-win64-2.1.5.zip
+
+https://download.emeditor.info/emed32_25.1.4_portable.zip
+https://download.emeditor.info/emed64_25.1.4_portable.zip
+https://download.emeditor.info/help/emed_help_zh-cn_25.1.4.msi

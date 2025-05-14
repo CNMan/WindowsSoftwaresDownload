@@ -1,0 +1,28 @@
+2025 v26.2.0.170
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2025/Pf39gVB2dQ/CorelDRAWGraphicsSuite2025Installer_MF04.iso
+https://www.corel.com/akdlm/6763/downloads/ELD/CDTS/2025/Pf39gVB2dQ/CorelDRAWTechnicalSuite2025Installer_MF04.iso
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2025/Pf39gVB2dQ/CorelDRAWGraphicsSuite2025Installer_MF03.iso
+https://www.corel.com/akdlm/6763/downloads/ELD/CDTS/2025/Pf39gVB2dQ/CorelDRAWTechnicalSuite2025Installer_MF03.iso
+2025 v26.1.0.143
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2025/Pf39gVB2dQ/CorelDRAWGraphicsSuite2025Installer_MF02.iso
+https://www.corel.com/akdlm/6763/downloads/ELD/CDTS/2025/Pf39gVB2dQ/CorelDRAWTechnicalSuite2025Installer_MF02.iso
+2025 v26.0.0.101
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2025/Pf39gVB2dQ/CorelDRAWGraphicsSuite2025Installer_MF01.iso
+https://www.corel.com/akdlm/6763/downloads/ELD/CDTS/2025/Pf39gVB2dQ/CorelDRAWTechnicalSuite2025Installer_MF01.iso
+2024 v25.2.1.313
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2024/JwdAS58QP32/CorelDRAWGraphicsSuite2024Installer_MF05.iso
+2024 v25.2.0.301
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2024/JwdAS58QP32/CorelDRAWGraphicsSuite2024Installer_MF04.iso
+2024 v25.1.0.269
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2024/JwdAS58QP32/CorelDRAWGraphicsSuite2024Installer_MF02.iso
+2024 v25.0.0.230
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2024/JwdAS58QP32/CorelDRAWGraphicsSuite2024Installer_MF01.iso
+2020 v22.1.1.523
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2020/CorelDRAWGraphicsSuite2020Installer_MF03.iso
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2020/LGJR/CDGS2020HF132.exe
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2020/LGJR/CDGS2020HF164.exe
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2020/LGJR/CDGS2020U132.exe
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2020/LGJR/CDGS2020U164.exe
+
+https://www.corel.com/akdlm/6763/downloads/ELD/CDTS/2020/CorelDRAWTechnicalSuite2020Installer-EN_DE_FR_IT_NL_ES_BR_CZ_PL_RU_CT_CS_JP_TR.iso
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/TechnicalSuite/2020/LGJR/CDTS2020U164.exe

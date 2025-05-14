@@ -1,8 +1,6 @@
-http://files.emeditor.com/emed32_14.8.1_portable.zip
-http://files.emeditor.com/emed64_14.8.1_portable.zip
-http://kindleforpc.amazon.com/44025/KindleForPC-installer-1.16.44025.exe
-http://matejhorvat.si/en/windows/python/py3-4-10.zip
 https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x71lor5zzkliyh8fv3sryayu5uk5zi20ep7dwfnwr143dzxqijv/49.0.2623.112_chrome_installer.exe
+https://download.emeditor.info/emed32_14.8.1_portable.zip
+https://download.emeditor.info/emed64_14.8.1_portable.zip
 https://download.techsmith.com/camtasiastudio/enu/860/camtasia.msi
 https://download.techsmith.com/snagit/enu/1241/snagit.msi
 https://fineprint.com/release/fp937.exe
@@ -19,6 +17,7 @@ https://github.com/vim/vim-win32-installer/releases/download/v9.0.0494/gvim_9.0.
 https://github.com/vim/vim-win32-installer/releases/download/v9.0.0494/gvim_9.0.0494_x86.zip
 https://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-3.1.2.zip
 https://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-3.1.2-64.zip
+https://matejhorvat.si/en/windows/python/py3-4-10.zip
 https://nlnetlabs.nl/downloads/unbound/unbound-1.16.3.zip
 https://nlnetlabs.nl/downloads/unbound/unbound-1.16.3-w32.zip
 https://secure-appldnld.apple.com/itunes12/031-34002-20150916-98D32A92-5C11-11E5-80AC-C25A6DA99CB1/iTunesSetup.exe
