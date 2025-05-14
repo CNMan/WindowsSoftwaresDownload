@@ -1,0 +1,13 @@
+https://www.apachelounge.com/download/vs17/binaries/httpd-2.4.65-250724-win32-vs17.zip
+https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.65-250724-Win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/dbd_modules-1.0.6-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_bw-0.92-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_evasive-2.4.0-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_fcgid-2.3.10-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_jk-1.2.50-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_log_rotate-1.0.2-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_qos-11.74-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_security-2.9.11-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_view-2.2-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_watch-4.3-win64-VS17.zip
+https://www.apachelounge.com/download/VS17/modules/mod_xsendfile-1.0-P1-win64-VS17.zip

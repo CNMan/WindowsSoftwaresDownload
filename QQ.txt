@@ -321,6 +321,19 @@ https://dldir1.qq.com/qqfile/qq/PCQQ9.7.22/QQ_9.7.22.240307_01.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.7.22/QQ9.7.22.240318_01.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.7.23/QQ9.7.23.240409_01.exe
 https://dldir1.qq.com/qqfile/qq/PCQQ9.7.23/QQ9.7.23.29406.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.7.25/QQ9.7.25.29410.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.7.25/QQ9.7.25.29411.exe
+https://dldir1.qq.com/qqfile/qq/PCQQ9.7.25/QQ9.7.25.29415.exe
+
+https://dldir1.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.19_250523_x64_01.exe
+https://dldir1.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.19_250523_x86_01.exe
+
+https://dldir1.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.21_250904_x64_01.exe
+https://dldir1.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.21_250904_x86_01.exe
+
+https://dldir1.qq.com/weixin/Universal/Windows/WeChatWin.exe
+https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+https://dldir1.qq.com/weixin/Windows/WeChatSetup_x86.exe
 
 PCQQ2020.exe	80.5 MB	2020/02/26 16:59	----
 PCQQ2019.exe	80.2 MB	2019/12/04 16:39	----
