@@ -39,8 +39,8 @@ https://download.cpuid.com/hwmonitor/hwmonitor_1.61.zip
 https://download.cpuid.com/hwmonitor-pro/hwmonitor-pro_1.56.zip
 https://download.divx.com/divx/DivXInstaller.exe
 https://download.divx.com/stable/divx/pro/DivXInstaller.exe
-https://download.emeditor.info/emed64_25.4.3_portable.zip
-https://download.emeditor.info/help/emed_help_zh-cn_25.4.3.msi
+https://download.emeditor.info/emed64_25.4.5_portable.zip
+https://download.emeditor.info/help/emed_help_zh-cn_25.4.5.msi
 https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe
 https://download.imgburn.com/translations/chinese_prc.zip
 https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip
@@ -79,8 +79,8 @@ https://ebstudio.info/download/KWICFinder/xd2tx221.zip
 https://ebstudio.info/download/KWICFinder/xd2tx221_x64.zip
 https://files2.sumatrapdfreader.org/software/sumatrapdf/rel/3.5.2/SumatraPDF-3.5.2.zip
 https://files2.sumatrapdfreader.org/software/sumatrapdf/rel/3.5.2/SumatraPDF-3.5.2-64.zip
-https://fineprint.com/release/fp1217.exe
-https://fineprint.com/release/pdf917pro.exe
+https://fineprint.com/release/fp1220.exe
+https://fineprint.com/release/pdf920pro.exe
 https://fontlab.s3.amazonaws.com/fontlab-7/7649/FontLab-7-Win64-Install-7649.exe
 https://fontlab.s3.amazonaws.com/fontlab-7/7649/FontLab-7-Win-Install-7649.exe
 https://fontlab.s3.amazonaws.com/fontlab-8/8984/FontLab-8-Win64-Install-8984.exe
@@ -88,22 +88,22 @@ https://fontlab.s3.amazonaws.com/fontlab-8/8984/FontLab-8-Win-Install-8984.exe
 https://fontlab.s3.amazonaws.com/fontlab-studio-5/5714/FLS522WinFull-5714.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win64-Install-7044.exe
 https://fontlab.s3.amazonaws.com/fontlab-vi/7044/FontLab-VI-Win-Install-7044.exe
-https://ftp.mozilla.org/pub/firefox/releases/140.6.0esr/win32/en-US/Firefox Setup 140.6.0esr.exe
-https://ftp.mozilla.org/pub/firefox/releases/140.6.0esr/win64/en-US/Firefox Setup 140.6.0esr.exe
-https://ftp.mozilla.org/pub/firefox/releases/146.0.1/win32/en-US/Firefox Setup 146.0.1.exe
-https://ftp.mozilla.org/pub/firefox/releases/146.0.1/win64/en-US/Firefox Setup 146.0.1.exe
-https://ftp.mozilla.org/pub/thunderbird/releases/146.0.1/win32/en-US/Thunderbird Setup 146.0.1.exe
-https://ftp.mozilla.org/pub/thunderbird/releases/146.0.1/win64/en-US/Thunderbird Setup 146.0.1.exe
+https://ftp.mozilla.org/pub/firefox/releases/140.7.0esr/win32/en-US/Firefox Setup 140.7.0esr.exe
+https://ftp.mozilla.org/pub/firefox/releases/140.7.0esr/win64/en-US/Firefox Setup 140.7.0esr.exe
+https://ftp.mozilla.org/pub/firefox/releases/147.0.2/win32/en-US/Firefox Setup 147.0.2.exe
+https://ftp.mozilla.org/pub/firefox/releases/147.0.2/win64/en-US/Firefox Setup 147.0.2.exe
+https://ftp.mozilla.org/pub/thunderbird/releases/147.0.1/win32/en-US/Thunderbird Setup 147.0.1.exe
+https://ftp.mozilla.org/pub/thunderbird/releases/147.0.1/win64/en-US/Thunderbird Setup 147.0.1.exe
 https://get.flashfxp.com/ftp/client/download/FlashFXP54_3970_Portable.exe
 https://gitee.com/devcpp/cterm/releases/download/v4.1.2/CTerm-4.1.2.zip
 https://github.com/abbodi1406/vcredist/releases/download/v0.103.0/VisualCppRedist_AIO_x86_x64_103.zip
-https://github.com/activescott/lessmsi/releases/download/v2.11.2/lessmsi-v2.11.2.zip
-https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/MPC-BE.1.8.8.x64.7z
-https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/MPC-BE.1.8.8.x86.7z
-https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/standalone_filters-mpc-be.1.8.8.x64.7z
-https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/standalone_filters-mpc-be.1.8.8.x86.7z
-https://github.com/clsid2/mpc-hc/releases/download/2.5.6/MPC-HC.2.5.6.x64.zip
-https://github.com/clsid2/mpc-hc/releases/download/2.5.6/MPC-HC.2.5.6.x86.zip
+https://github.com/activescott/lessmsi/releases/download/v2.11.8/lessmsi-v2.11.8.zip
+https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.9/MPC-BE.1.8.9.x64.7z
+https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.9/MPC-BE.1.8.9.x86.7z
+https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.9/standalone_filters-mpc-be.1.8.9.x64.7z
+https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.9/standalone_filters-mpc-be.1.8.9.x86.7z
+https://github.com/clsid2/mpc-hc/releases/download/2.6.1/MPC-HC.2.6.1.x64.zip
+https://github.com/clsid2/mpc-hc/releases/download/2.6.1/MPC-HC.2.6.1.x86.zip
 https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.15/dnscrypt-proxy-win32-2.1.15.zip
 https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.15/dnscrypt-proxy-win64-2.1.15.zip
 https://github.com/git-for-windows/git/releases/download/v2.48.1.windows.1/PortableGit-2.48.1-32-bit.7z.exe
@@ -115,8 +115,8 @@ https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC.1.7.13.x86.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x64.zip
 https://github.com/mpc-hc/mpc-hc/releases/download/1.7.13/MPC-HC_standalone_filters.1.7.13.x86.zip
 https://github.com/rime/weasel/releases/download/0.17.4/weasel-0.17.4.0-installer.exe
-https://github.com/telegramdesktop/tdesktop/releases/download/v6.3.10/tportable.6.3.10.beta.zip
-https://github.com/telegramdesktop/tdesktop/releases/download/v6.3.10/tportable-x64.6.3.10.beta.zip
+https://github.com/telegramdesktop/tdesktop/releases/download/v6.4.1/tportable.6.4.1.zip
+https://github.com/telegramdesktop/tdesktop/releases/download/v6.4.1/tportable-x64.6.4.1.zip
 https://github.com/ventoy/Ventoy/releases/download/v1.1.10/ventoy-1.1.10-windows.zip
 https://github.com/vim/vim-win32-installer/releases/download/v9.1.0/gvim_9.1.0_x64_signed.zip
 https://github.com/vim/vim-win32-installer/releases/download/v9.1.0/gvim_9.1.0_x86_signed.zip
@@ -166,13 +166,14 @@ https://www.editplus.com/ftp/epp600_0632_64bit.exe
 https://www.editplus.com/ftp/epp600p0731_0525.exe
 https://www.editplus.com/ftp/epp600p0765_0721_64bit.exe
 https://www.editplus.com/ftp/epp610_0780_64bit.exe
+https://www.editplus.com/ftp/epp610p0836_0114_64bit.exe
 https://www.exactaudiocopy.de/eac-1.8.exe
 https://www.faststonesoft.net/DN/FSCapture112.zip
-https://www.faststonesoft.net/DN/FSMaxView34.zip
-https://www.faststonesoft.net/DN/FSResizer44.zip
+https://www.faststonesoft.net/DN/FSMaxView35.zip
+https://www.faststonesoft.net/DN/FSResizer45.zip
 https://www.faststonesoft.net/DN/FSViewer83.zip
-https://www.foobar2000.org/files/foobar2000_v2.25.3.exe
-https://www.foobar2000.org/files/foobar2000-x64_v2.25.3.exe
+https://www.foobar2000.org/files/foobar2000_v2.25.6.exe
+https://www.foobar2000.org/files/foobar2000-x64_v2.25.6.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.2.45_20241022.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.3.8_20221013.exe
 https://www.gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.4.8_20250514.exe
@@ -209,8 +210,8 @@ https://www.scootersoftware.com/BCompare-4.4.7.28397_x86.msi
 https://www.scootersoftware.com/BCompare-5.1.7.31736.exe
 https://www.silvester.org.uk/privoxy/Windows/3.0.33 (stable)/privoxy_3.0.33.zip
 https://www.solutionsam.com/solutions/8_8/symantec_deploymentsolution_8_8_x64.msi
-https://www.voidtools.com/Everything-1.4.1.1030.x64.zip
-https://www.voidtools.com/Everything-1.4.1.1030.x86.zip
+https://www.voidtools.com/Everything-1.4.1.1032.x64.zip
+https://www.voidtools.com/Everything-1.4.1.1032.x86.zip
 https://www.winitor.com/tools/pestudio/current/pestudio.zip
 https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x32-701sc.exe
 https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20250804/wrr/winrar-x64-713sc.exe

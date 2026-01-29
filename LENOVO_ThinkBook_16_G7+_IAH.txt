@@ -72,3 +72,6 @@ https://downloadmirror.intel.com/853377/WiFi-23.130.1-Driver64-Win10-Win11.exe
 
 Intel® Wireless Wi-Fi Drivers for Linux*
 https://downloadmirror.intel.com/850931/ReleaseNotes_WiFi_LinuxCore93.pdf
+
+https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-drivers-for-windows-10-and-windows-11.html
+https://downloadmirror.intel.com/871690/BT-24.10.0-64UWD-Win10-Win11.exe
