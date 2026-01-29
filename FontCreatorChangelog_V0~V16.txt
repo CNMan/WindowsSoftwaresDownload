@@ -1,3 +1,62 @@
+FontCreator 16.0.0.3060 [April 29, 2026]
+    New: subscription-based licensing (Home, Standard, and Professional editions retired)
+    New: Background Layer — proper layer with its own outline, metrics, anchors, color, and visibility (replaces the previous Mask)
+    New: any contour or component can be flagged as a Mask, subtracting from the geometry that precedes it; compound shapes subtract as a single hole
+    New: Decompose with Mask command bakes mask subtraction into authored geometry
+    New: Smart Components, with full per-master smart layers nested under their owning master
+    New: Path Decorations — corner and cap components attached to outline points
+    New: Reference Artwork — multiple raster or vector references per master, attached as layers (replaces the single Background Image)
+    New: Helper Layer Properties dialog (name, opacity, color)
+    New: Curvature comb visualisation to spot uneven curves at a glance
+    New: contour direction indicators in the editor
+    New: marquee zoom in and out for faster navigation
+    New: Pen tool — hold Shift to constrain the next point to a 45° angle
+    New: Shift+Delete breaks a contour at the selected node
+    New: end nodes automatically close a contour when moved onto each other
+    New: better point selection and point-hover highlighting
+    New: cleaner editor rendering
+    New: redesigned Masters and Layers panel with full support for background, helper, smart, color, and reference-artwork layers
+    New: color swatches in the Masters and Layers panel are click-to-edit
+    New: palette-entry picker available directly from color-member rows
+    New: consistent toolbar and context-menu actions across Windows and macOS (Duplicate, Bring to Front/Back, Re-interpolate Position, Add Smart Layer, reorder)
+    New: Filter by Tag — No Tag
+    New: rulers inside the glyph edit area (also available on macOS)
+    New: anchors list can be reordered and sorted
+    New: press G with an anchor selected to drop guidelines through it
+    New: background layers carry their own anchors
+    New: kink detection and fixing between masters
+    New: PostScript names on named instances (fvar)
+    New: import and export of selected glyph outlines to SVG
+    New: export as CFF2
+    New: option to export a single font filename with or without the style name
+    New: full round-trip with .glyphs for strokes, masks, and corner and cap components
+    New: Helper Layer Properties dialog (cross-platform)
+    New: native color picker with RGBA and hex input (cross-platform)
+    Improved: Paint Bucket tool now works correctly and shows a live color swatch indicator; right-click changes the color, Shift+click opens the Palette Manager
+    Improved: merge contours
+    Improved: Text Tool, including clipboard support on macOS
+    Updated: Unicode data to version 17
+    Updated: OpenType script, language, and feature tag registries
+    Updated: Preview All Instances icon
+    Removed: Samples panel
+    Fixed: kerning was not shown in the Font Test dialog
+    Fixed: RTL handling for unmapped RTL glyphs
+    Fixed: Anchor panel no longer crashes during rapid font and panel switching
+    macOS only: new Palette Manager dialog for full palette authoring
+    macOS only: new Tags Options dialog, plus per-glyph Tag submenu in the editor
+    macOS only: Paste Special dialog matches Windows with checkboxes for Background, Helper Layers, and Path Decorations
+    macOS only: Tags action added to the Tools menu
+    Several other improvements and bug fixes
+FontCreator 15.0.0.3047 [February 4, 2026]
+    macOS only: updated main menu
+    macOS only: added Unicode variation sequences
+    Improved handling of anchors
+    Improved Auto Attach
+    Several improvements and bug fixes
+FontCreator 15.0.0.3042 [January 7, 2026]
+    Several improvements and bug fixes
+FontCreator 15.0.0.3040 [December 31, 2025]
+    Numerous improvements and bug fixes
 FontCreator 15.0.0.3039 [December 10, 2025]
     New: Export Glyph Properties
     Fixed: Opening CFF2 based fonts did not set the glyph names

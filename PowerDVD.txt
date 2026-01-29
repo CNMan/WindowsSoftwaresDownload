@@ -13,5 +13,7 @@ https://update.cyberlink.com/Retail/PowerDVD/67IO4AVDXVDM/PowerDVD_24.0.0716.62_
 
 https://update.cyberlink.com/Retail/PowerDVD/XTJ91EILKOK/PowerDVD_24.0.1105.62_02_Ultra_DVD250827-01.exe
 
+https://build.cyberlink.com/Retail/PowerDVD/Q8D8988Q3DY2/PowerDVD_24.0.1922.62_Ultra_DVD260629-02.exe
+
 HEVC Codecs
 https://update.cyberlink.com/Module/Codec/HEVC/103234/k1h8KLZjI3Ezn8TRv1864nv4P5aOC0.zip
